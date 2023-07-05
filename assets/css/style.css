@@ -9,4 +9,19 @@
 body {
     font-family: Inconsolata, light;
     font-weight: 300;
+    color: #696969;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Poppins, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #302e2e;
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
 }
