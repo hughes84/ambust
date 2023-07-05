@@ -17,11 +17,41 @@ body {
 h1, h2 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
     color: #302e2e;
 }
 
 #logo {
     float: left;
-    font-size: 250%;
+    font-size: 150%;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #302e2e;
+}
+
+.active {
+    border-bottom: 1px solid #302e2e;
 }
