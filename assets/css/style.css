@@ -9,7 +9,7 @@
 body {
     font-family: Inconsolata, light;
     font-weight: 300;
-    color: #272424;
+    color: #0e540e;
 }
 
 /* headings and logo */
@@ -18,12 +18,13 @@ h1, h2 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #272424;
+    color: #0e540e;
 }
 
 #logo {
     float: left;
-    font-size: 150%;
+    font-size: 200%;
+    margin-left: 40px;
 }
 
 /* navigation links */
@@ -114,4 +115,30 @@ h1, h2 {
     right: 150px;
 
     position: absolute;
+}
+
+/* about */
+
+#about {
+    height: 600px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: green;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: silver;
 }
