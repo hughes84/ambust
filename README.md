@@ -35,7 +35,7 @@ Languages Used
 HTML
 CSS
 
-Frameworks, Programes and Platforms Used
+Frameworks, Program's and Platforms Used
 
 Google fonts
 
@@ -48,4 +48,22 @@ VS Code my main platform used to code while utilizing the terminal to commit and
 GitHub
 
 GitHub is used to store the projects code after being pushed from Git.
+
+Testing
+
+When testing my HTML code i used W3C Markup Validator and found no errors
+
+*Input all code for index.html here *
+
+This is the result for my index.html page
+
+*Input all code for about.html her *
+
+This is the result for my about.html page
+
+*Input all code for staff.html her *
+
+This is the result for my contact.html page
+
+
 
