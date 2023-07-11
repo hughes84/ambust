@@ -23,25 +23,29 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 180%;
+    font-size: 280%;
     margin-left: 35px;
+    margin-bottom: 25px;
+    margin-top: 20px;
 }
 
 /* navigation links */
 
 #menu {
-    font-size: 100%;
+    font-size: 150%;
     letter-spacing: 3px;
+    
 }
 
 #menu, #logo {
-    line-height: 50px;
+    line-height: 10px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 35px;
+    margin-top: 15px;
 }
 
 #menu a {
@@ -50,11 +54,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #272424;
+    border-bottom: 1px solid #0e540e;
 }
 
 .active {
-    border-bottom: 1px solid #272424;
+    border-bottom: 1px solid #0e540e;
 }
 
 /* ambulance image and cover-text */
@@ -68,7 +72,7 @@ h1, h2 {
 }
 
 #cover-text h2, #cover-text h3 {
-    color: #043107;
+    color: #0e540e;
 }
 
 
@@ -80,21 +84,22 @@ h1, h2 {
 }
 
 #cover-text {
-    font-size: 150%;
+    font-size: 100%;
     font-family: Inconsolata, light;
     text-transform: uppercase;
     letter-spacing: 3px;
 
-    width: 320px;
-    height: 220px;
+    width: 200px;
+    height: 120px;
 
-    padding-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 15px;
 
     background-color: rgba(177, 219, 39, 0.7);
 
-    bottom: 100px;
-    left: 460px;
+    bottom: 200px;
+    left: 500px;
 
     position: absolute;
 }
