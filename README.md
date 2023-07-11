@@ -49,6 +49,64 @@ GitHub
 
 GitHub is used to store the projects code after being pushed from Git.
 
+Testing
+
+When testing my HTML code i used W3C Markup Validator and found no errors
+
+*Input all code for index.html here *
+
+This is the result for my index.html page
+
+*Input all code for about.html her *
+
+This is the result for my about.html page
+
+*Input all code for staff.html her *
+
+This is the result for my contact.html page
+
+CSS
+
+When testing CSS code I used W3C CSS Validator and had found no errors in code
+
+* show results of code *
+
+This is the result for my style.css page
+
+
+
+
+Colours
+
+The colours chosen for this project are those similar to the national ambulance service colours. I used 'green' with it's hex value of '#0e540e', which was used for headings, hover effects and borders. I also used another light green/yellow color to symbolize the luminous bright colour of the Irish ambulances with an rgba(177, 219, 39, 0.7) this also gave the appearance of a see through effect. Around the image of myself I used a brighter 'chartreuse' colour to brighten up the page a bit more with a hex value of '#7fff00'.
+
+Typography
+
+The Inconsolata font is the title font I used with Sans Serif as the fallback font in case for any reason the font wouldn't import into the site correctly. I used Poppins in my paragraphs as it complimented well with the Inconsolata I felt.
+
+Imagery
+
+The large, background image stretches through the landing page and is designed to be striking and catch the user's attention at the very first glance and to give the user the idea behind the website. I sourced this image of the fleet of the Irish ambulance service online and downloaded it. The second image is a picture I took of myself at work in the National Ambulance Service.
+
+Languages Used
+
+HTML
+CSS
+
+Frameworks, Program's and Platforms Used
+
+Google fonts
+
+I used Google fonts to import the Inconsolata and Poppins fonts into the style.css file which is used on all pages throughout the project.
+
+Visual Studio Code
+
+VS Code my main platform used to code while utilizing the terminal to commit and Push to GitHub.
+
+GitHub
+
+GitHub is used to store the projects code after being pushed from Git.
+
 When testing my HTML code i used W3C Markup Validator and found no errors
 
 *Input all code for index.html here *

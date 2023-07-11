@@ -7,6 +7,7 @@
 }
 
 body {
+    background-color: #fff2cc;
     font-family: Inconsolata, light;
     font-weight: 200;
     color: #0e540e;
@@ -25,8 +26,8 @@ h1, h2 {
     float: left;
     font-size: 280%;
     margin-left: 35px;
-    margin-bottom: 25px;
-    margin-top: 20px;
+    margin-bottom: 45px;
+    margin-top: 50px;
 }
 
 /* navigation links */
@@ -45,7 +46,7 @@ h1, h2 {
     float: right;
     list-style-type: none;
     margin-right: 35px;
-    margin-top: 15px;
+    margin-top: 50px;
 }
 
 #menu a {
@@ -98,7 +99,7 @@ h1, h2 {
 
     background-color: rgba(177, 219, 39, 0.7);
 
-    bottom: 200px;
+    bottom: 100px;
     left: 500px;
 
     position: absolute;
@@ -167,14 +168,14 @@ hr {
 }
 
 #circle-container {
-    width: 333px;
-    height: 333px;
-    padding: 30px;
+    width: 300px;
+    height: 450px;
+    padding: 10px;
     border-style: solid;
     border-color: #7fff00;
     border-width: 8px;
     border-radius: 50%;
-    margin: 0 auto;
+    
 }
 
 #circle-cover-bg {
