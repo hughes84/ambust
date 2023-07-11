@@ -29,3 +29,22 @@ The Inconsolata font is the title font I used with Sans Serif as the fallback fo
 Imagery
 
 The large, background image stretches through the landing page and is designed to be striking and catch the user's attention at the very first glance and to give the user the idea behind the website. I sourced this image of the fleet of the Irish ambulance service online and downloaded it. The second image is a picture I took of myself at work in the National Ambulance Service.
+
+Languages Used
+
+HTML
+CSS
+
+Frameworks, Program's and Platforms Used
+
+Google fonts
+
+I used Google fonts to import the Inconsolata and Poppins fonts into the style.css file which is used on all pages throughout the project.
+
+Visual Studio Code
+
+VS Code my main platform used to code while utilizing the terminal to commit and Push to GitHub.
+
+GitHub
+
+GitHub is used to store the projects code after being pushed from Git.
