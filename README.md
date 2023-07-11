@@ -65,5 +65,13 @@ This is the result for my about.html page
 
 This is the result for my contact.html page
 
+CSS
+
+When testing CSS code I used W3C CSS Validator and had found no errors in code
+
+* show results of code *
+
+This is the result for my style.css page
+
 
 
