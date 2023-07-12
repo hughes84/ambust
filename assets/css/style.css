@@ -176,10 +176,17 @@ hr {
     border-width: 8px;
     border-radius: 50%;
     
+    
 }
 
 #circle-cover-bg {
     background: url(../images/para2.jpg) no-repeat center center;
     height: 100%;
     border-radius: 70%;
+}
+
+#bottom-about {
+    background: url(../images/phecc2.jpg) no-repeat bottom;
+    height: 100%;
+    width:100%;
 }
