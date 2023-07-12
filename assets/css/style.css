@@ -15,12 +15,34 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #0e540e;
+    padding: 20px;
+    border-top: 8px solid #7fff00;
+    border-bottom: 8px solid #7fff00;   
+}
+
+h2, h4 {
+    font-family: Poppins, sans-serif;
+    text-transform: capitalize;
     letter-spacing: 3px;
     color: #0e540e;
 }
+
+h3 {
+    font-family: Poppins, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    color: #0e540e;
+}
+    
+    
+
+
+
 
 #logo {
     float: left;
@@ -167,6 +189,15 @@ hr {
     font-size: 280%;
 }
 
+#staff {
+    text-align: center;
+    margin: 100px 0;
+    font-size: 280%;
+    margin-left: 45%;
+    
+    
+}
+
 #circle-container {
     width: 300px;
     height: 450px;
@@ -190,3 +221,30 @@ hr {
     height: 100%;
     width:100%;
 }
+
+#staff-heading {
+    width: 70%;
+    float: left;
+    line-height: 25px;
+    clear: both;
+    margin-bottom: 40px;
+}
+
+#left-staff {
+    width: 25%;
+    float: left;
+    line-height: 25px;
+    clear: both;
+    margin-bottom: 40px;
+}
+
+#center-staff {
+    width: 25%;
+    float: right;
+    line-height: 25px;
+    
+    margin-bottom: 40px;
+}
+
+
+    
