@@ -1,164 +1,128 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Poppins:ital,wght@1,700&display=swap');
-
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
-
 body {
-    background-color: #fff2cc;
+    background-color: #FFF2CC;
     font-family: Inconsolata, light;
     font-weight: 200;
-    color: #0e540e;
+    color: #0E540E;
 }
-
+a {
+    text-decoration: none;
+}
 /* headings and logo */
-
+header {
+    display: flex;
+    flex-direction: row;
+}
 h1 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #0e540e;
-    padding: 20px;
-    border-top: 8px solid #7fff00;
-    border-bottom: 8px solid #7fff00;   
+    color: #0E540E;
+    padding: 10px;
+    border-top: 8px solid #7FFF00;
+    border-bottom: 8px solid #7FFF00;
+    line-height: 40px;
 }
-
-h2, h4 {
+h2, h3 {
     font-family: Poppins, sans-serif;
     text-transform: capitalize;
     letter-spacing: 3px;
-    color: #0e540e;
+    color: #0E540E;
 }
-
-h3 {
+h4 {
     font-family: Poppins, sans-serif;
     text-transform: capitalize;
     letter-spacing: 3px;
-    color: #0e540e;
+    color: #0E540E;
+    padding: 80px;
+    
 }
-    
-    
-
-
-
-
 #logo {
-    float: left;
+    
     font-size: 280%;
     margin-left: 35px;
     margin-bottom: 45px;
     margin-top: 50px;
 }
-
 /* navigation links */
-
 #menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     font-size: 150%;
     letter-spacing: 3px;
-    
 }
-
-#menu, #logo {
-    line-height: 10px;
-}
-
 #menu li {
-    float: right;
     list-style-type: none;
-    margin-right: 35px;
-    margin-top: 50px;
+    margin: 50px 5px 0 5px;
 }
-
 #menu a {
     text-decoration: none;
     color: inherit;
 }
-
 #menu a:hover {
-    border-bottom: 1px solid #0e540e;
+    border-bottom: 1px solid #0E540E;
 }
-
 .active {
-    border-bottom: 1px solid #0e540e;
+    border-bottom: 1px solid #0E540E;
 }
-
 /* ambulance image and cover-text */
-
 #ambulance-outer {
     height: 500px;
     width: 100%;
     overflow: hidden;
-
-    position: inherit;
 }
-
 #cover-text h2, #cover-text h3 {
-    color: #0e540e;
+    color: #0E540E;
 }
-
-
 #ambulance-image {
     height: 500px;
     width: 100%;
     background: url(../images/ambu1.jpg) no-repeat center center;
-
 }
-
 #cover-text {
+    position: absolute;
+    right: 100px;
+    bottom: 80px;
     font-size: 100%;
     font-family: Inconsolata, light;
     text-transform: uppercase;
     letter-spacing: 3px;
-
     width: 200px;
     height: 120px;
-
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;
-
     background-color: rgba(177, 219, 39, 0.7);
-
-    bottom: 100px;
-    left: 500px;
-
-    position: absolute;
 }
-
 /* about */
-
 #about {
     height: 500px;
 }
-
 #left-about {
     padding-top: 50px;
     width: 25%;
     float: left;
-    
 }
-
 #right-about {
     padding-top: 50px;
     width: 25%;
     float: right;
-    
 }
-
 #center-about {
     width: 25%;
     margin: 0 auto;
-    
 }
-
 hr {
-    border-top: 2px solid #0e540e;
+    border-top: 2px solid #0E540E;
     width: 125%;
     margin: 3px 0;
 }
-
 .left-about-heading {
     width: 70%;
     float: right;
@@ -166,36 +130,53 @@ hr {
     clear: both;
     margin-bottom: 40px;
 }
-
 .right-about-heading {
     width: 70%;
-    float: left;
     line-height: 25px;
     clear: both;
     margin-bottom: 40px;
 }
-
 .right-about-heading h2 {
     text-align: right;
 }
-
 .right-about-heading p {
     text-align: right;
 }
-
 #welcome {
     text-align: center;
     margin: 40px 0;
     font-size: 280%;
 }
-
 #staff {
     text-align: center;
     margin: 100px 0;
     font-size: 280%;
-    margin-left: 45%;
+    margin-bottom: 30px;
+}
+
+#staff-pic-ed {
+    background: url(../images/Ed-para1.jpg) no-repeat;
+    height: 100%;
+    padding: 100px;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+#staff-pic-brian {
+    background: url(../images/Brian-CG2.jpg) no-repeat center;
+    height: 100%;
+    padding: 0px;
+    margin-top: -10px;
+    margin-left: -150px;
     
-    
+}
+
+#staff-pic-patrick {
+    background: url(../images/Pat-C191.jpg) no-repeat right;
+    height: 100%;
+    padding: 100px;
+    margin-top: -100px;
+    margin-right: 70px;
 }
 
 #circle-container {
@@ -203,48 +184,38 @@ hr {
     height: 450px;
     padding: 10px;
     border-style: solid;
-    border-color: #7fff00;
+    border-color: #7FFF00;
     border-width: 8px;
     border-radius: 50%;
-    
-    
 }
-
 #circle-cover-bg {
     background: url(../images/para2.jpg) no-repeat center center;
     height: 100%;
     border-radius: 70%;
 }
-
 #bottom-about {
     background: url(../images/phecc2.jpg) no-repeat bottom;
     height: 100%;
     width:100%;
 }
-
 #staff-heading {
     width: 70%;
-    float: left;
     line-height: 25px;
     clear: both;
-    margin-bottom: 40px;
+    margin: 0px auto 40px auto;
+}
+#staff-section {
+   clear: both;
+}
+#staff-div {
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+.box {
+    width: 250px;
 }
 
-#left-staff {
-    width: 25%;
-    float: left;
-    line-height: 25px;
-    clear: both;
-    margin-bottom: 40px;
+.pic {
+    width: 100%;
 }
-
-#center-staff {
-    width: 25%;
-    float: right;
-    line-height: 25px;
-    
-    margin-bottom: 40px;
-}
-
-
-    
