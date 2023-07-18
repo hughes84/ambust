@@ -21,13 +21,13 @@
                     
                 </li>
                 <li>
-                    <a href="about.html">About</a>
+                    <a href="#About">About</a>
                 </li>
                 <li>
-                    <a href="staff.html">Staff</a>
+                    <a href="#staff-section">Staff</a>
                 </li>
                 <li>
-                    <a href="signup.html">Sign Up</a>
+                    <a href="#form">Sign Up</a>
                 </li>
             </ul>
         </nav>
@@ -75,12 +75,11 @@
             </p>
         </div>
         </div>
-    <div id="center-about">
-        <div id="circle-container">
-          <div id="circle-cover-bg">
-            </div>
-        <div id="bottom-about">
-          </div>
+        <div id="center-about">
+            <div id="circle-cover-bg"></div>
+            <div id="phecc-badge"></div> 
+        </div>
+        
         </section>
         <section id="staff-section">
                 <h4 id="staff">Meet our Staff</h4>
@@ -89,31 +88,55 @@
                 <h3>Edward</h3>
                 <hr>
                 <p>Meet Edward, a full-time Paramedic working in Newport Ambualnce Station for the past 8 years. Edward is a local man and passionate about caring for the community. He is currently studying for his Masters of Science, Emergency Medical Science. He is eager to progress his skills to further treat those in need and dreams of being a solo responder on our Rapid Response Vehicle (RRV). </p>
+                <img src="assets/images/Ed-para1.jpg" alt="Image of staff member">
+                
             </div>
             <div class="box">
                 <h3>Brian</h3>
                 <hr>
                 <p>Meet Brian, a former Paramedic for over a decade. Brian has many years of experience on the frontline both on an Emergency Ambulance and Rapid Response Vehicle. He has recently been appointed as an Advanced Paramedic with the Irish Coastguard helping save lives on both land and sea. Brian is also a local to Newport. </p>
+                <img src="assets/images/Brian-CG2.jpg" alt="Image of staff member">
+            
             </div>
         <div class="box">
             <h3>Patrick</h3>
             <hr>
             <p>Meet Patrick, a dedicated Paramedic from Co.Galway. Patrick divides his time between farming and serving the public working long hours day and night. Patrick also worked on our swabbing team during the Covid 19 pandemic giving up more of his time to serve the community. He recently transferred to Newport Ambulance to be closer to home.  </p>
-        </div>
-    </div>
-</div>
-        </section>
-        <section id="staff-pic">
-             <div id="staff-pic-ed">
-                <div id="staff-pic-brian">
-                    <div id="staff-pic-patrick">
-            <div class="pic">
+            <img src="assets/images/Pat-C191.jpg" alt="Image of staff member">
             </div>
         </div>
-    </div>  
-                 </div>
-</section>
+    
 
+        
+        </section>
+        
+ <form id="form" style="border:1px solid #ccc" class="form-fields" method = "GET" action= "thankyou.html">
+    <div class="container">
+      <h3>Sign Up</h3>
+      <p>Please fill in this form to create an account.</p>
+      <hr>
+  
+      <label for="email"><b>Email</b></label>
+      <input type="email" placeholder="Enter Email" name="email" required>
+  
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" required>
+  
+      <label for="psw-repeat"><b>Repeat Password</b></label>
+      <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+  
+      <label>
+        <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+      </label>
+  
+      
+  
+      <div class="clearfix">
+        <button type="button" class="cancelbtn">Cancel</button>
+        <button type="submit" class="signupbtn">Sign Up</button>
+      </div>
+    </div>
+  </form>
     <footer>
         <ul class="social-media">
             <li>
@@ -139,35 +162,6 @@
  <!-- font awesome script -->
  <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
 
-
- <form action="action_page.php" style="border:1px solid #ccc">
-    <div class="container">
-      <h1>Sign Up</h1>
-      <p>Please fill in this form to create an account.</p>
-      <hr>
-  
-      <label for="email"><b>Email</b></label>
-      <input type="email" placeholder="Enter Email" name="email" required>
-  
-      <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
-  
-      <label for="psw-repeat"><b>Repeat Password</b></label>
-      <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
-  
-      <label>
-        <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
-      </label>
-  
-      
-  
-      <div class="clearfix">
-        <button type="button" class="cancelbtn">Cancel</button>
-        <button type="submit" class="signupbtn">Sign Up</button>
-      </div>
-    </div>
-  </form>
-  
   
 </body>
 </html>
