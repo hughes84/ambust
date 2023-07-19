@@ -66,7 +66,8 @@ This is the result for my index.html page
 
 When testing my thankyou.html code i used W3C Markup Validator and found no errors.
 
-![Screenshot (15)](https://github.com/hughes84/ambust/assets/134289376/d3868a2c-024f-4184-b61d-0fb58cacfde8)
+![Screenshot (13)](https://github.com/hughes84/ambust/assets/134289376/4a6a8474-36d3-4f6a-98cd-92e9019d2ed0)
+![Screenshot (14)](https://github.com/hughes84/ambust/assets/134289376/f6ac9224-93a3-4e2e-88b3-6ead608b3b17)
 
 
 This is the result for my thankyou.html page.
@@ -76,9 +77,8 @@ CSS
 
 When testing my style.css I used W3C CSS Validator and had found no errors..
 
-![Screenshot (13)](https://github.com/hughes84/ambust/assets/134289376/4a6a8474-36d3-4f6a-98cd-92e9019d2ed0)
-![Screenshot (14)](https://github.com/hughes84/ambust/assets/134289376/f6ac9224-93a3-4e2e-88b3-6ead608b3b17)
 
+![Screenshot (15)](https://github.com/hughes84/ambust/assets/134289376/d3868a2c-024f-4184-b61d-0fb58cacfde8)
 
 This is the result for my style.css page
 
