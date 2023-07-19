@@ -145,3 +145,46 @@ On the Staff page at the top it describes what you will see in Meet our staff. I
 
 On the sign up page I kept with the same theme and colors. I did use a red for the cancel button to highlight it. Here you are encouraged to sign up if you would like to create an account and join the service. A correctly formatted email address is required. If all lines are completed correctly you will be directed to a thank you page thanking you for your application.
 
+
+Deployment
+
+Github pages:
+
+This project was deployed to GitHub Pages using the following steps;
+Log in to GitHub and locate the GitHub Repository.
+At the top of the Repository, locate "Settings"on the menu.
+Scroll down the Settings page and on the left you will see the "Pages" section.
+Under "Source", click the dropdown "None" and select "Main Branch".
+The page will automatically refresh.
+Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+Live link for the page can be found here "ambust".
+
+
+Credits
+
+Code & Content:
+
+Credit to  W3 Schools for helping me resolve issues while coding throughout.
+The Love running project from Code Institute was a useful guide at times also and helped me get started. I also referred back to it several times for ideas.
+Slack was also very helpful with peer assistance on occasion when stuck with a code.
+
+Media:
+
+My main image is taken from a National Ambulance Service Facebook account which is available to the public. 
+The image on the next page is of myself.
+This is followed by the Phecc logo from thier website, https://www.phecit.ie/
+My staff images were taken from personal Facebook accounts of colleagues with their consent. 
+In the footer I have used links to Facebook, Twitter, Youtube and Instagram.
+
+Acknowledgment:
+
+Special thank you goes to Laura from Code Institute for keeping me motivated on weekly stand up calls on slack throughout project. Always available for guidance.
+Thank you to all at Code Institute for the opportunity. 
+My peers on slack especially Jamie O'Neill who often took time from his own schedule to look over my work.
+
+
+
+
+
+
+
