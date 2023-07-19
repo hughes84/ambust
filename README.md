@@ -138,5 +138,10 @@ Navigation
 
 My navigation is placed on the top right of the page . It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up.
 On the Home page there is a large image of various fleet and personnel with bright colors linked with the ambulance service. I also have the name of the website at the top as well as a short description of the service embedded on the image.
-On the About page I have a centred picture of myself at work in uniform with an ambulance in the background. I have this centred with a bright border again showing the bright ambulance colors.
+
+On the About page I have a centred picture of myself at work in uniform with an ambulance in the background. I have this centred with a bright border again showing the bright ambulance colors. At the top I have a heading for the section on whar we do as a service, explained in more detail in four paragraphs, two on the left, two on the right, all titled. Again in the centre closer to the bottom I have the Pre Hospital Emergency Care Council logo. This is the body where Paramedics in Ireland get their licences from.
+
+On the Staff page at the top it describes what you will see in Meet our staff. I then introduce three of my colleagues seperately giving a brief description of their journey and role in the service. Each is then followed by a picture on duty.
+
+On the sign up page I kept with the same theme and colors. I did use a red for the cancel button to highlight it. Here you are encouraged to sign up if you would like to create an account and join the service. A correctly formatted email address is required. If all lines are completed correctly you will be directed to a thank you page thanking you for your application.
 
