@@ -61,104 +61,16 @@ I had misused an <id> tag.
 ![Screenshot (6)](https://github.com/hughes84/ambust/assets/134289376/1e0aaecc-b671-4553-9ad5-61fdae52885c)
 ![Screenshot (7)](https://github.com/hughes84/ambust/assets/134289376/a9db8ba2-9c83-425f-98fb-3e3dfcec83ef)
 
-
-
 This is the result for my index.html page
 
 
 When testing my about.html code i used W3C Markup Validator and found some errors.
 I had two unclosed <div> elements.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="The basic function of an ambulance station">
-    <meta name="keywords" content="ambulance station, ambulance, Newport">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>Newport Ambulance Station</title>
-    
-</head>
-<body>
-    <header>
-        <a href="index.html">
-            <h1 id="logo">Newport Ambulance Station</h1>
-        </a>
-        <nav>
-            <ul id="menu">
-                <li>
-                    <a href="index.html">Home</a>
-                    
-                </li>
-                <li>
-                    <a href="about.html" class="active">About</a>
-                </li>
-                <li>
-                    <a href="staff.html">Staff</a>
-                </li>
-                <li>
-                    <a href="signup.html">Sign Up</a>
-                </li>
-            </ul>
-        </nav>
-    </header>
-   
-    <section id="About">
-        <h2 id="welcome">What we do, Our vision and values</h2>
-        <div id="left-about">
-         <div class="left-about-heading">
-            <h2>When should you call 999?</h2>
-            <hr>
-            <p>
-                You should call 999 when someone is seriously ill or injured and you think their life is at risk! For example, shortness of breath, persistent chest pains, stroke symptoms, serious bleeding or loss of consciousness.
-            </p>
-        </div>
-        <div class="left-about-heading">
-            <h2>What happens when you call 999?</h2>
-            <hr>
-            <p>
-                When you call 999, an operator will ask you which emergency service you need. In a medical emergency, ask for the ambulance service.
-                You will then be put through to one of our call-takers. They will ask you some questions about the patient and your location. This is so we can start arranging help straight away.
-            </p>
-        </div>
-        </div>
-        <div id="right-about">
-        <div class="right-about-heading">
-            <h2>Get Involved with us</h2>
-            <hr>
-            <p>
-                Ready to help us save lives?
-                There has never been a more exciting time to join us. Over the last 10 years the role of frontline ambulance crew has changed dramatically and continues to evolve to meet a growing demand for urgent healthcare.
-            </p>
-        </div>
-        <div class="right-about-heading">
-            <h2>Working on the frontline</h2>
-            <hr>
-            <p>
-                For those with drive and ambition we offer many diverse clinically focused career opportunities to deliver care to the communities we serve. These include working as a community paramedic in primary care, as an emergency care practitioner working in both the emergency and GP out of hours settings, or becoming a dispatcher in our modern control centres.
-            </p>
-        </div>
-        </div>
-    <div id="center-about"></div>
-        <div id="circle-container"></div>
-          <div id="circle-cover-bg">
-            </div>
-        <div id="bottom-about">
-          </div>
-        </section>
-        
+![Screenshot (8)](https://github.com/hughes84/ambust/assets/134289376/86d188e3-3680-47bd-a165-44df995a060a)
+![Screenshot (9)](https://github.com/hughes84/ambust/assets/134289376/2e900d19-233f-4cc0-9086-1fa46fd58459)
+![Screenshot (10)](https://github.com/hughes84/ambust/assets/134289376/77fdcd00-e371-40ba-9ded-999d0d3d161a)
 
-    <footer>
-        
-
-    </footer>
-
- <!-- font awesome script -->
- <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
-
-</body>
-</html>
 
 This is the result for my about.html page
 
