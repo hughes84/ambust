@@ -167,6 +167,9 @@ Code & Content:
 Credit to  W3 Schools for helping me resolve issues while coding throughout.
 The Love running project from Code Institute was a useful guide at times also and helped me get started. I also referred back to it several times for ideas.
 Slack was also very helpful with peer assistance on occasion when stuck with a code.
+Color-hex.com for colors.
+Simplecss.eu for for RGBA to Hex converter.
+Google fonts.
 
 Media:
 
