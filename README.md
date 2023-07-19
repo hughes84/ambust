@@ -83,6 +83,16 @@ When testing my style.css I used W3C CSS Validator and had found no errors..
 This is the result for my style.css page
 
 
+Further testing
+
+I've tested that this page works in different browsers such as Chrome, Firefox, Microsoft Edge and Safari.
+I've tested that this website is responsive, and looks good on all standard screen sizes the smallest at 320px all the way up to 1400px.
+I've confirmed that my webiste has good visibility contrast and it's easy readable for the user, with good contrast colours and displaying good accessibility performance.
+I've tested that all internal links are working properly and navigate me through the pages, and clicking on logo takes me back to the home page
+internal links: Home, About, Staff, Sign Up as well as sign up button sign up page.
+I've tested that all external links are taking me to new tab and to related pages that where either in discription or in text.
+External links: Facebook, Twitter, Youtube and Instagram.
+Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
 
 
 Colours
