@@ -24,10 +24,6 @@ Visual Studio Code
 
 VS Code my main platform used to code while utilizing the terminal to commit and Push to GitHub.
 
-GitHub
-
-GitHub is used to store the projects code after being pushed from Git.
-
 Testing
 
 When testing my index.html code i used W3C Markup Validator and found an error.
@@ -94,7 +90,7 @@ I had some preformance issues in the begining but I managed to rectify it by inc
 
 Features
 
-Navigation
+Navigation:
 
 My navigation is placed on the top right of the page . It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up.
 On the Home page there is a large image of various fleet and personnel with bright colors linked with the ambulance service. I also have the name of the website at the top as well as a short description of the service embedded on the image.
@@ -120,7 +116,7 @@ Scroll back down through the page to locate the now published site link in the "
 Live link for the page can be found here "ambust".
 
 
-Credits
+Credits:
 
 Credit to  W3 Schools for helping me resolve issues while coding throughout and when creating my sign up form.
 The Love running project from Code Institute was a useful guide at times also and helped me get started. I also referred back to it several times for ideas.
