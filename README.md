@@ -7,19 +7,21 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 
 # H1 First time visitor goals
    
-   1. First item As a first time visitor, I want to understand the purpose of this site and to be able to easily navigate through it.
-   2. Second item As a first time visitor, I want to be able to find pictures &/or descriptions. 
-   3. Third item As a first time visitor, I want to be able to see where the company is based and to find contact details         with ease, e.g. social media links/contact form.
+   1. As a first time visitor, I want to understand the purpose of this site and to be able to easily navigate through it.
+   2. As a first time visitor, I want to be able to find pictures &/or descriptions. 
+   3. As a first time visitor, I want to be able to see where the company is based and to find contact details with ease, 
+      e.g. social media links/contact form.
 
 # H2 Returning visitor goals
 
-   1. First item As a returning visitor, I want to be able to contact the company with ease and get a prompt response. 
-   2. Second item As a returning visitor, I want to find links to other community groups who use the National Park area for        recreation.
+   1. As a returning visitor, I want to be able to contact the company with ease and get a prompt response. 
+   2. As a returning visitor, I want to find links to other community groups who use the National Park area for        
+      recreation.
 
 # H3 Frequent user goals
-   1. First item As a frequent user, I want to view some new pictures or updates on the service
-   2. Second item As a frequent user, I want to read more about the service and updates on joining or promoting
-   3. Third item As a frequent user, I want to check to see if there is any news, or any new updates on the website
+   1. As a frequent user, I want to view some new pictures or updates on the service
+   2. As a frequent user, I want to read more about the service and updates on joining or promoting
+   3. As a frequent user, I want to check to see if there is any news, or any new updates on the website
 
 
 Visual Studio Code
