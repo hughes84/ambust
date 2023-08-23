@@ -1,17 +1,17 @@
 https://github.com/hughes84/ambust.git
 
-Newport Ambulance Station is fully responsive website, created to show the user the basic running of the ambulance service, including fleet, what to do int the event of an emergency and an introduction to some staff. Please note this is not based on a real ambulance station.
+This website gives an insight into the core values and purpose of an Ambulance service. You will see real images of The Irish National ambulance service fleet from ambulances, rapid response vehicles to motorbikes and helicopters. You will learn how the process works from when you dial 999 until the Emergency services arrive at your door. With a description of working on the front line and how the roles have evolved over the past decade you will be given the opportunity to sign up to apply for a position in the Ambulance Service. You will be introduced to three real life Paramedics and their different roles and journeys.
 
 
 ![ambustu am i responsive](https://github.com/hughes84/ambust/assets/134289376/f3724de9-7b6d-4e79-8d2e-79b549d4c0fb)
 
 1. First time visitor goals
-   As a first time visitor, I want to understand purpose of this site and to easily navigate through it
-   As a first time visitor, I want to be able to find pictures &/or descriptions 
-   As a first time visitor, I want to be able to see where the company is based and to find contact details with ease, e.g. social media links/contact form
+   As a first time visitor, I want to understand the purpose of this site and to be able to easily navigate through it.
+   As a first time visitor, I want to be able to find pictures &/or descriptions. 
+   As a first time visitor, I want to be able to see where the company is based and to find contact details with ease, e.g.    social media links/contact form.
 
 3. Returning visitor goals
-   As a returning visitor, I want to be able to contact the company with ease and get a prompt response 
+   As a returning visitor, I want to be able to contact the company with ease and get a prompt response. 
    As a returning visitor, I want to find links to other community groups who use the National Park area for recreation.
 
 4. Frequent user goals
