@@ -1,6 +1,6 @@
-https://github.com/hughes84/ambust.git
-
 This website gives an insight into the core values and purpose of an Ambulance service. You will see real images of The Irish National ambulance service fleet from ambulances, rapid response vehicles to motorbikes and helicopters. You will learn how the process works from when you dial 999 until the Emergency services arrive at your door. With a description of working on the front line and how the roles have evolved over the past decade you will be given the opportunity to sign up to apply for a position in the Ambulance Service. You will be introduced to three real life Paramedics and their different roles and journeys.
+
+Here you will find a live link to my website: https://hughes84.github.io/ambust/#form
 
 
 ![ambustu am i responsive](https://github.com/hughes84/ambust/assets/134289376/f3724de9-7b6d-4e79-8d2e-79b549d4c0fb)
