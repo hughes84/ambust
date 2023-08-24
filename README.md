@@ -77,7 +77,8 @@ Lighthouse testing
 
 I used Lighthouse testing to audit for performance and accessibility.
 
-![image](https://github.com/hughes84/ambust/assets/134289376/92d64117-c9a6-4aa7-9cdb-95acb3586241)
+![image](https://github.com/hughes84/ambust/assets/134289376/9e8ea987-29c6-426b-8fc6-6b061843c8e4)
+
 
 
 
