@@ -60,9 +60,13 @@ When testing my style.css I used W3C CSS Validator and had found no errors.
 
 This is the result for my style.css page
 
+
 Lighthouse testing
 
-![image](https://github.com/hughes84/ambust/assets/134289376/5c762c88-8901-4926-816f-cf4cdb210422)
+I used Lighthouse testing to audit for performance and accessibility.
+
+![image](https://github.com/hughes84/ambust/assets/134289376/fb6407bc-663e-400e-8b39-3a7a66a8aab2)
+
 
 
 Further testing
