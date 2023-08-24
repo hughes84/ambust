@@ -66,11 +66,12 @@ When testing my index.html code i used W3C Markup Validator and found an error.
 I had misused an <id> tag.
 
 
-![Screenshot (3)](https://github.com/hughes84/ambust/assets/134289376/101f5c6d-82c7-4886-938a-26285ec753e0)
-![Screenshot (4)](https://github.com/hughes84/ambust/assets/134289376/9ea259e3-3ef8-4eb1-9cc0-6385fd2a39b3)
-![Screenshot (5)](https://github.com/hughes84/ambust/assets/134289376/cd680e72-c853-4228-9eed-eb73380b1ef5)
-![Screenshot (6)](https://github.com/hughes84/ambust/assets/134289376/1e0aaecc-b671-4553-9ad5-61fdae52885c)
-![Screenshot (7)](https://github.com/hughes84/ambust/assets/134289376/a9db8ba2-9c83-425f-98fb-3e3dfcec83ef)
+![image](https://github.com/hughes84/ambust/assets/134289376/7f97e165-32d3-438f-81fc-d0aa154ec255)
+![image](https://github.com/hughes84/ambust/assets/134289376/68d5f181-1d27-4945-b5a6-c34b67e25f26)
+![image](https://github.com/hughes84/ambust/assets/134289376/e1f830f1-26c6-4e22-9270-50df6c66b45d)
+![image](https://github.com/hughes84/ambust/assets/134289376/5313b5da-36fa-4d5c-8441-4f273ec9bb17)
+![image](https://github.com/hughes84/ambust/assets/134289376/19a88da1-1ceb-4ff2-9f1f-35a95d8122a5)
+
 
 This is the result for my index.html page
 
