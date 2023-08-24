@@ -61,13 +61,6 @@ When testing my style.css I used W3C CSS Validator and had found no errors.
 This is the result for my style.css page
 
 
-Lighthouse testing
-
-I used Lighthouse testing to audit for performance and accessibility.
-
-![image](https://github.com/hughes84/ambust/assets/134289376/fb6407bc-663e-400e-8b39-3a7a66a8aab2)
-
-
 
 Further testing
 
@@ -79,6 +72,13 @@ Internal links: Home, About, Staff, Sign Up as well as sign up button sign up pa
 I've tested that all external links are taking me to new tab and to related pages that where either in discription or in text.
 External links: Facebook, Twitter, Youtube and Instagram.
 Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
+
+Lighthouse testing
+
+I used Lighthouse testing to audit for performance and accessibility.
+
+![image](https://github.com/hughes84/ambust/assets/134289376/92d64117-c9a6-4aa7-9cdb-95acb3586241)
+
 
 
 Colours
