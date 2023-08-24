@@ -1,3 +1,7 @@
+# H0 Newport Ambulance Station 🚑
+
+# H18 Introduction
+
 This website gives an insight into the core values and purpose of an Ambulance service. You will see real images of The Irish National ambulance service fleet from ambulances, rapid response vehicles to motorbikes and helicopters. You will learn how the process works from when you dial 999 until the Emergency services arrive at your door. With a description of working on the front line and how the roles have evolved over the past decade you will be given the opportunity to sign up to apply for a position in the Ambulance Service. You will be introduced to three real life Paramedics and their different roles and journeys.
 
 Here you will find a live link to my website: https://hughes84.github.io/ambust/
@@ -8,23 +12,22 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 
 # H1 First time visitor goals
    
-   1. As a first time visitor, I want to understand the purpose of this site and to be able to easily navigate through it.
-   2. As a first time visitor, I want to be able to find pictures &/or descriptions. 
-   3. As a first time visitor, I want to be able to see where the company is based and to find contact details with ease, 
-      e.g. social media links/contact form.
+   1. As a first time visitor on this site, I want to know what the site is about without having to read too much content.
+   2. As a first time visitor on this site, I want the title, headings and descriptions to be easily found and easily understood. 
+   3. As a first time visitor on this site, I don't want to be left confused with any navigation issues or detailed descriptions.
       
 
 # H2 Returning visitor goals
 
-   1. As a returning visitor, I want to be able to contact the company with ease and get a prompt response. 
-   2. As a returning visitor, I want to find links to other community groups who use the National Park area for        
-      recreation.
+   1. As a returning visitor to this site, I want my experience to be as easy as the first and know how to navigate to where I want to go. 
+   2. As a returning visitor to this site, I want have easy access to signing up to the service.
 
 
 # H3 Frequent user goals
-   1. As a frequent user, I want to view some new pictures or updates on the service
-   2. As a frequent user, I want to read more about the service and updates on joining or promoting
-   3. As a frequent user, I want to check to see if there is any news, or any new updates on the website
+
+   1. As a frequent user to this site, I want to view some new pictures or updates on the service.
+   2. As a frequent user to this site, I want to read more about the service and updates on joining or promotions.
+   3. As a frequent user to this site, I want to check to see if there is any local news, or any new updates to the website.
       
 
 # H4 Visual Studio Code
