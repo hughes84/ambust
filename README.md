@@ -62,7 +62,7 @@ The user is first met by the menu screen. Here they can see the name of the site
 
 # Testing
 
-When testing my index.html code i used W3C Markup Validator and found an error.
+**When testing my index.html code i used W3C Markup Validator and found an error.**
 I had misused an <id> tag.
 
 
@@ -76,33 +76,34 @@ I had misused an <id> tag.
 > This is the result for my index.html page.
 
 
-When testing my thankyou.html code i used W3C Markup Validator and found no errors.
+**When testing my thankyou.html code i used W3C Markup Validator and found no errors.**
 
+![image](https://github.com/hughes84/ambust/assets/134289376/3227ceed-01cc-4996-a174-a9d27836f508)
+![image](https://github.com/hughes84/ambust/assets/134289376/3e906b1b-934a-4e8f-87c1-1c5bb99b7122)
 
-![Screenshot (13)](https://github.com/hughes84/ambust/assets/134289376/4a6a8474-36d3-4f6a-98cd-92e9019d2ed0)
-![Screenshot (14)](https://github.com/hughes84/ambust/assets/134289376/f6ac9224-93a3-4e2e-88b3-6ead608b3b17)
 
 > This is the result for my thankyou.html page.
 
 
 # CSS
 
-When testing my style.css I used W3C CSS Validator and had found no errors.
+**When testing my style.css I used W3C CSS Validator and had found no errors.**
 
-![Screenshot (15)](https://github.com/hughes84/ambust/assets/134289376/d3868a2c-024f-4184-b61d-0fb58cacfde8)
+![image](https://github.com/hughes84/ambust/assets/134289376/d05644aa-a2cd-4ab4-9847-9ace2b6d789d)
+
 
 > This is the result for my style.css page.
 
 # Further testing
 
-I've tested that this page works in different browsers such as Chrome, Firefox, Microsoft Edge and Safari.
-I've tested that this website is responsive, and looks good on all standard screen sizes the smallest at 320px all the way up to 1400px.
-I've confirmed that my webiste has good visibility contrast and it's easy readable for the user, with good contrast colours and displaying good accessibility performance.
-I've tested that all internal links are working properly and navigate me through the pages, and clicking on logo takes me back to the home page.
-Internal links: Home, About, Staff, Sign Up as well as sign up button sign up page.
-I've tested that all external links are taking me to new tab and to related pages that where either in discription or in text.
-External links: Facebook, Twitter, Youtube and Instagram.
-Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
+- I've tested that this page works in different browsers such as Chrome, Firefox, Microsoft Edge and Safari.
+- I've tested that this website is responsive, and looks good on all standard screen sizes the smallest at 320px all the way up to 1400px.
+- I've confirmed that my webiste has good visibility contrast and it's easy readable for the user, with good contrast colours and displaying good accessibility performance.
+- I've tested that all internal links are working properly and navigate me through the pages, and clicking on logo takes me back to the home page.
+- Internal links: Home, About, Staff, Sign Up as well as sign up button sign up page.
+- I've tested that all external links are taking me to new tab and to related pages that where either in discription or in text.
+- External links: Facebook, Twitter, Youtube and Instagram.
+- Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
 
 
 # Lighthouse testing
@@ -184,22 +185,17 @@ On the sign up page I kept with the same theme and colors. I did use a red for t
 
 # Media
 
-My main image is taken from a National Ambulance Service Facebook account which is available to the public. 
-The image on the next page is of myself.
-
-This is followed by the Phecc logo from thier website, https://www.phecit.ie/ .
-
-My staff images were taken from personal Facebook accounts of colleagues with their consent. 
-
-In the footer I have used links to Facebook, Twitter, Youtube and Instagram.
+- My main image is taken from a National Ambulance Service Facebook account which is available to the public. 
+- The image on the next page is of myself.
+- This is followed by the Phecc logo from thier website, https://www.phecit.ie/ .
+- My staff images were taken from personal Facebook accounts of colleagues with their consent. 
+- In the footer I have used links to Facebook, Twitter, Youtube and Instagram.
 
 
 # Acknowledgment
 
 Special thank you goes to Laura from Code Institute for keeping me motivated on weekly stand up calls on slack throughout project. Always available for guidance.
-
 Thank you to all at Code Institute for the opportunity. 
-
 My peers on slack especially Jamie O'Neill who often took time from his own schedule to look over my work.
 
 
