@@ -28,6 +28,27 @@ Visual Studio Code
 
 VS Code my main platform used to code while utilizing the terminal to commit and Push to GitHub.
 
+Design
+
+The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the left. Below these is an image of several different fleet of the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention in with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours.
+
+![Screenshot (65)](https://github.com/hughes84/ambust/assets/134289376/a4a1fd33-eda7-4625-9d06-43fe7598d566)
+
+
+
+
+
+![Screenshot (65)](https://github.com/hughes84/ambust/assets/134289376/a4a1fd33-eda7-4625-9d06-43fe7598d566)
+
+![Screenshot (66)](https://github.com/hughes84/ambust/assets/134289376/a1b2408e-aac1-4602-87de-7064d8a5d402)
+
+![Screenshot (67)](https://github.com/hughes84/ambust/assets/134289376/f13e29d2-2eb8-4bac-8f9d-57a5a8b4c357)
+
+![Screenshot (68)](https://github.com/hughes84/ambust/assets/134289376/bae83f63-b42a-4b83-b100-e8fdcf6c7089)
+
+![Screenshot (69)](https://github.com/hughes84/ambust/assets/134289376/23946f0b-d678-4924-a9e4-d1c6f3716e07)
+
+
 Testing
 
 When testing my index.html code i used W3C Markup Validator and found an error.
