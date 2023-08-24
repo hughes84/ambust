@@ -23,19 +23,15 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
    2. As a frequent user, I want to read more about the service and updates on joining or promoting
    3. As a frequent user, I want to check to see if there is any news, or any new updates on the website
 
-
-Visual Studio Code
+# H4 Visual Studio Code
 
 VS Code my main platform used to code while utilizing the terminal to commit and Push to GitHub.
 
-Design
+# H5 Design
 
 The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the left. Below these is an image of several different fleet of the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention in with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours.
 
 ![Screenshot (65)](https://github.com/hughes84/ambust/assets/134289376/a4a1fd33-eda7-4625-9d06-43fe7598d566)
-
-
-
 
 
 ![Screenshot (65)](https://github.com/hughes84/ambust/assets/134289376/a4a1fd33-eda7-4625-9d06-43fe7598d566)
@@ -48,8 +44,7 @@ The user is first met by the menu screen. Here they can see the name of the site
 
 ![Screenshot (69)](https://github.com/hughes84/ambust/assets/134289376/23946f0b-d678-4924-a9e4-d1c6f3716e07)
 
-
-Testing
+# H6 Testing
 
 When testing my index.html code i used W3C Markup Validator and found an error.
 I had misused an <id> tag.
@@ -68,22 +63,17 @@ When testing my thankyou.html code i used W3C Markup Validator and found no erro
 ![Screenshot (13)](https://github.com/hughes84/ambust/assets/134289376/4a6a8474-36d3-4f6a-98cd-92e9019d2ed0)
 ![Screenshot (14)](https://github.com/hughes84/ambust/assets/134289376/f6ac9224-93a3-4e2e-88b3-6ead608b3b17)
 
-
 This is the result for my thankyou.html page.
 
-
-CSS
+# H7 CSS
 
 When testing my style.css I used W3C CSS Validator and had found no errors.
-
 
 ![Screenshot (15)](https://github.com/hughes84/ambust/assets/134289376/d3868a2c-024f-4184-b61d-0fb58cacfde8)
 
 This is the result for my style.css page
 
-
-
-Further testing
+# H8 Further testing
 
 I've tested that this page works in different browsers such as Chrome, Firefox, Microsoft Edge and Safari.
 I've tested that this website is responsive, and looks good on all standard screen sizes the smallest at 320px all the way up to 1400px.
@@ -94,37 +84,33 @@ I've tested that all external links are taking me to new tab and to related page
 External links: Facebook, Twitter, Youtube and Instagram.
 Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
 
-Lighthouse testing
+# H9 Lighthouse testing
 
 I used Lighthouse testing to audit for performance and accessibility.
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/9e8ea987-29c6-426b-8fc6-6b061843c8e4)
 
-
-
-
-Colours
+# H10 Colours
 
 The colours chosen for this project are those similar to the national ambulance service colours. I used 'green' with it's hex value of '#0e540e', which was used for headings, hover effects and borders. I also used another light green/yellow color to symbolize the luminous bright colour of the Irish ambulances with an rgba(177, 219, 39, 0.7) this also gave the appearance of a see through effect. Around the image of myself I used a brighter 'chartreuse' colour to brighten up the page a bit more with a hex value of '#7fff00'. I used a red hex value '#f44336' for my cancel button on sign up form to highlight the cancel.
 
-Typography
+# H11 Typography
 
 The Inconsolata font is the title font I used with Sans Serif as the fallback font in case for any reason the font wouldn't import into the site correctly. I used Poppins in my paragraphs as it complimented well with the Inconsolata I felt.
 
-Imagery
+# H12 Imagery
 
 The large, background image stretches through the landing page and is designed to be striking and catch the user's attention at the very first glance and to give the user the idea behind the website. I sourced this image of the fleet of the Irish ambulance service online and downloaded it. The second image is a picture I took of myself at work in the National Ambulance Service. I used some pictures of my work collegaues for the staff section from Facebook with their consent.
 
 
-Bugs
+# H13 Bugs
 
 As I was buliding my website I was constantly debuging and changing my code
 I had some preformance issues in the begining but I managed to rectify it by increasing and decreasing the size of my images and testing different style, ie. float to flex. I tested my page regularly through inspect as well as on various different websites for responsive testing.
  
+# H14 Features
 
-Features
-
-Navigation:
+**bold text** Navigation:
 
 My navigation is placed on the top right of the page . It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up.
 On the Home page there is a large image of various fleet and personnel with bright colors linked with the ambulance service. I also have the name of the website at the top as well as a short description of the service embedded on the image.
@@ -136,9 +122,9 @@ On the Staff page at the top it describes what you will see in Meet our staff. I
 On the sign up page I kept with the same theme and colors. I did use a red for the cancel button to highlight it. Here you are encouraged to sign up if you would like to create an account and join the service. A correctly formatted email address is required. If all lines are completed correctly you will be directed to a thank you page thanking you for your application.
 
 
-Deployment
+# H15 Deployment
 
-Github pages:
+**bold text** Github pages:
 
 This project was deployed to GitHub Pages using the following steps;
 Log in to GitHub and locate the GitHub Repository.
@@ -150,7 +136,7 @@ Scroll back down through the page to locate the now published site link in the "
 Live link for the page can be found here "ambust".
 
 
-Credits:
+# H16 Credits
 
 Credit to  W3 Schools for helping me resolve issues while coding throughout and when creating my sign up form.
 The Love running project from Code Institute was a useful guide at times also and helped me get started. I also referred back to it several times for ideas.
@@ -166,7 +152,7 @@ Am I responsive for helping check responsiveness of different sized screen sizes
 NHS South Central Ambulance Service. I used this website for some ideas in the about section.
 tmarkec for allowing me to use layout of README.md for guidance.
 
-Media:
+# H17 Media
 
 My main image is taken from a National Ambulance Service Facebook account which is available to the public. 
 The image on the next page is of myself.
@@ -174,7 +160,7 @@ This is followed by the Phecc logo from thier website, https://www.phecit.ie/
 My staff images were taken from personal Facebook accounts of colleagues with their consent. 
 In the footer I have used links to Facebook, Twitter, Youtube and Instagram.
 
-Acknowledgment:
+# H18 Acknowledgment
 
 Special thank you goes to Laura from Code Institute for keeping me motivated on weekly stand up calls on slack throughout project. Always available for guidance.
 Thank you to all at Code Institute for the opportunity. 
