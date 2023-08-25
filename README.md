@@ -17,6 +17,24 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 - Returning visitor goals
 - Frequent visitor goals
 - Visual Studio Code
+- Design
+  - Wireframe
+-Testing
+  - HTML
+  - CSS
+-Further testing
+  - Lighthouse testing
+- Colours
+- Typography
+- Imagery
+- Bugs
+- Features
+    - Navigation
+-Deployment
+  - Github pages
+- Credits
+- Media
+- Acknowledgments
 
 
 # First time visitor goals
