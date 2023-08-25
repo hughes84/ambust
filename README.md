@@ -203,6 +203,7 @@ On the sign up page I kept with the same theme and colors. I did use a red for t
 11. Am I responsive for helping check responsiveness of different sized screen sizes.
 12. NHS South Central Ambulance Service. I used this website for some ideas in the about section.
 13. tmarkec for allowing me to use layout of README.md for guidance.
+14. Freepik for cartoon images for README.md.
 
 
 # Media
