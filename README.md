@@ -51,6 +51,8 @@ Next the user is met with the heading of the second section. With just a few sim
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/26b31cde-06ea-4dc7-a6fd-d22d06337999)
 
+Further down in the same section I have a centre logo of the Pre Hospital Emergency Care Council, the governing body who issues Paramedic licences in Ireland. To the left of the page I give a description of the process of what happens when you dial 999 to the time the ermergency services arrive at your door. On the right of the page I explain the different roles there is in the service, showing that there is a variety of careers to explore on and off the road. I believe these short but detailed paragraphs give enough information to captivate the users attention without boring them with long drawn out chapters.
+
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/4803cba8-5a6b-45a7-b36e-a16be78b730d)
 
