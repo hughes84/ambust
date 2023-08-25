@@ -11,6 +11,14 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 ![ambustu am i responsive](https://github.com/hughes84/ambust/assets/134289376/f3724de9-7b6d-4e79-8d2e-79b549d4c0fb)
 
 
+# Table of Contents
+
+- First time visitor goals
+- Returning visitor goals
+- Frequent visitor goals
+- Visual Studio Code
+
+
 # First time visitor goals
    
    1. As a first time visitor on this site, I want to know what the site is about without having to read too much content.
@@ -24,7 +32,7 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
    2. As a returning visitor to this site, I want have easy access to signing up to the service.
 
 
-# Frequent user goals
+# Frequent visitor goals
 
    1. As a frequent user to this site, I want to view some new pictures or updates on the service.
    2. As a frequent user to this site, I want to read more about the service and updates on joining or promotions.
@@ -79,6 +87,8 @@ On the bottom of the page there are four live links to Facebook, Twitter, Youtub
 
 
 # Testing
+
+# HTML
 
 **When testing my index.html code i used W3C Markup Validator and found an error.**
 I had misused an id tag.
@@ -204,6 +214,8 @@ On the sign up page I kept with the same theme and colors. I did use a red for t
 12. NHS South Central Ambulance Service. I used this website for some ideas in the about section.
 13. tmarkec for allowing me to use layout of README.md for guidance.
 14. Freepik for cartoon images for README.md.
+15. Markdownguide.org for syntax for README.md.
+16. Visual Studio Code for being my Integrated development environment.
 
 
 # Media
