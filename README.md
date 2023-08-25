@@ -38,6 +38,29 @@ VS Code my main platform used to code while utilizing the terminal to commit and
 
 # Design
 
+
+**Wireframe**
+
+I invisaged my first website to be basic, prompt and staright to the point. I wanted some images to jump out to grab the users attention immediately. 
+
+
+![image](https://github.com/hughes84/ambust/assets/134289376/87f33a47-3397-4f70-ac65-cab25f0efa69)
+
+
+![image](https://github.com/hughes84/ambust/assets/134289376/e046fbc6-d1ec-4fcf-ae4e-ef29eb087289)
+
+
+![image](https://github.com/hughes84/ambust/assets/134289376/e0643b0d-34d9-42c5-8e23-6ce1a6efa119)
+
+
+![image](https://github.com/hughes84/ambust/assets/134289376/55eb937d-c611-494b-a100-85f2d001bf5e)
+
+
+
+
+
+
+
 The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the right. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
 
 
