@@ -1,11 +1,6 @@
 # Newport Ambulance Station 🚑
                                                                 
 
-
-
-
-
-
 # Introduction
 
 This website gives an insight into the core values and purpose of an Ambulance service. You will see real images of The Irish National ambulance service fleet from ambulances, rapid response vehicles to motorbikes and helicopters. You will learn how the process works from when you dial 999 until the Emergency services arrive at your door. With a description of working on the front line and how the roles have evolved over the past decade you will be given the opportunity to sign up to apply for a position in the Ambulance Service. You will be introduced to three real life Paramedics and their different roles and journeys.
@@ -41,8 +36,6 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 VS Code my main platform used to code while utilizing the terminal to commit and Push to GitHub.
 
 
-
-
 # Design
 
 The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the right. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
@@ -66,9 +59,6 @@ Further down in the same section I have a centre logo of the Pre Hospital Emerge
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/303704c1-63f0-4481-aa70-423564263e64)
-
-
-
 
 
 # Testing
@@ -96,8 +86,6 @@ I had misused an id tag.
 > This is the result for my thankyou.html page.
 
 
-
-
 # CSS
 
 **When testing my style.css I used W3C CSS Validator and had found no errors.**
@@ -106,8 +94,6 @@ I had misused an id tag.
 
 
 > This is the result for my style.css page.
-
-
 
 
 # Further testing
@@ -122,14 +108,12 @@ I had misused an id tag.
 - Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
 
 
-
 # Lighthouse testing
 
 I used Lighthouse testing to audit for performance and accessibility.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/9e8ea987-29c6-426b-8fc6-6b061843c8e4)
-
 
 
 # Colours
@@ -154,8 +138,6 @@ I had some preformance issues in the begining but I managed to rectify it by inc
 
  
 
-
-
 # Features
 
 **Navigation:**
@@ -174,8 +156,6 @@ On the sign up page I kept with the same theme and colors. I did use a red for t
 
 
 
-
-
 # Deployment
 
 **Github pages:**
@@ -188,8 +168,6 @@ On the sign up page I kept with the same theme and colors. I did use a red for t
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 7. Live link for the page can be found here "ambust".
-
-
 
 
 
@@ -210,8 +188,6 @@ On the sign up page I kept with the same theme and colors. I did use a red for t
 13. tmarkec for allowing me to use layout of README.md for guidance.
 
 
-
-
 # Media
 
 - My main image is taken from a National Ambulance Service Facebook account which is available to the public. 
@@ -219,8 +195,6 @@ On the sign up page I kept with the same theme and colors. I did use a red for t
 - This is followed by the Phecc logo from thier website, https://www.phecit.ie/ .
 - My staff images were taken from personal Facebook accounts of colleagues with their consent. 
 - In the footer I have used links to Facebook, Twitter, Youtube and Instagram.
-
-
 
 
 # Acknowledgment
