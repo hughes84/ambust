@@ -59,8 +59,8 @@ Scrolling down, I introduce the user to three of my colleagues from the service.
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/b99809a9-80db-4813-b9ae-2cadc27407f0)
 
-
-
+At the end of the site the user is met with the sign up page. Here the user is given the option to make an account, signing up to join the service. The user must enter a valid email address to submit the form. On completion of entering a valid email address and password the user will click the sign up button below. They will then be directed to a new page, where the following message will appear; Thank You, Your Form Has Been Submitted!Thank you for your application, we will be in contact in due course.
+On the bottom of the page there are four live links to Facebook, Twitter, Youtube and Instagram.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/303704c1-63f0-4481-aa70-423564263e64)
