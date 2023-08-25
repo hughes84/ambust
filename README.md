@@ -46,6 +46,8 @@ The user is first met by the menu screen. Here they can see the name of the site
 ![image](https://github.com/hughes84/ambust/assets/134289376/0a9dfc60-5be5-4c18-aed7-3d3133b256bd)
 
 
+Next the user is met with the heading of the second section. With just a few simple words the user knows what this section is about straight away. There is a picture below this of myself at work, in uniform, with an ambulance behind me. I feel this will draw the user in as it makes it more real and truthful. I give a brief synopsis on the left of the page, of when to call 999 and another to the right of the page on getting involved, giving the user food for thought on whether this could be a role for them.
+
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/26b31cde-06ea-4dc7-a6fd-d22d06337999)
 
