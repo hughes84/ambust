@@ -49,13 +49,17 @@ Next the user is met with the heading of the second section. With just a few sim
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/26b31cde-06ea-4dc7-a6fd-d22d06337999)
 
-Further down in the same section I have a centre logo of the Pre Hospital Emergency Care Council, the governing body who issues Paramedic licences in Ireland. To the left of the page I give a description of the process of what happens when you dial 999 to the time the ermergency services arrive at your door. On the right of the page I explain the different roles there is in the service, showing that there is a variety of careers to explore on and off the road. I believe these short but detailed paragraphs give enough information to captivate the users attention without boring them with long drawn out chapters.
+Further down in the same section I have a centre logo of the Pre Hospital Emergency Care Council, the governing body who issues Paramedic licences in Ireland. To the left of the page I give a description of the process of what happens when you dial 999 to the time the emergency services arrive at your door. On the right of the page I explain the different roles there is in the service, showing that there is a variety of careers to explore on and off the road. I believe these short but detailed paragraphs give enough information to captivate the users attention without boring them with long drawn out chapters.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/4803cba8-5a6b-45a7-b36e-a16be78b730d)
 
+Scrolling down, I introduce the user to three of my colleagues from the service. Two paramedics that work on an ambulance and an advanced paramedic who works on a helicopter with the Irish Coastguard. I give the user a look into each medics background, skills and goals for the future with a picture of each in a different setting again making it real and giving variety, keeping the users attention. 
+
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/b99809a9-80db-4813-b9ae-2cadc27407f0)
+
+
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/303704c1-63f0-4481-aa70-423564263e64)
