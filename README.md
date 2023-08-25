@@ -40,7 +40,7 @@ VS Code my main platform used to code while utilizing the terminal to commit and
 
 # Design
 
-The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the left. Below these is an image of several different fleet of the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention in with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours.
+The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the right. Below these is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/0a9dfc60-5be5-4c18-aed7-3d3133b256bd)
@@ -63,7 +63,7 @@ The user is first met by the menu screen. Here they can see the name of the site
 # Testing
 
 **When testing my index.html code i used W3C Markup Validator and found an error.**
-I had misused an <id> tag.
+I had misused an id tag.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/7f97e165-32d3-438f-81fc-d0aa154ec255)
