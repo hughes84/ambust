@@ -30,7 +30,6 @@ h1 {
     padding: 4px;
     border-top: 8px solid #7FFF00;
     border-bottom: 8px solid #7FFF00;
-   
     line-height: 40px ;
     text-align: center;
     
@@ -38,7 +37,7 @@ h1 {
 }
 
 #logo {
-    width: 70%;
+    width: 100%;
     display: flex;
     justify-content: center;
     
@@ -71,7 +70,7 @@ h4 {
     border-bottom: 4px solid #7FFF00 ;
     border-top: 4px solid #7FFF00 ;
     align-items: center;
-    background-color: #ee847c;
+    background-color: rgba(177, 219, 39, 0.7);
 }
 
 
@@ -126,6 +125,7 @@ h4 {
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 /* about */
 #about {
@@ -346,50 +346,6 @@ button:hover {
 
 /* media queries */
 
-/* for larger to medium screen size from 1200px wide and down */
-
-@media screen and (max-width: 650px) {
-    #about {
-        width: 70%;
-        height: 1200px;
-        margin: 0 auto;
-
-    }
-
-    #welcome {
-        padding: 30px 0;
-        margin: 0;
-    }
-
-    #left-about, #right-about {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #center-about {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    hr {
-        display: none;
-    }
-
-    
-        .cancelbtn, .signupbtn {
-          width: 100%;
-          }
-      
-      #logo {
-          
-          font-size: 200%;
-          }
-}
-
-
 /* for medium screen sizes of 950px wide and down */
 
 @media screen and (max-width: 950px) {
@@ -400,7 +356,14 @@ button:hover {
     }
 
     #cover-text {
-        font-size: 70%;
+        font-size: 65%;
+    }
+
+    #logo {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        
     }
     
     .left-about-heading {
@@ -411,9 +374,7 @@ button:hover {
         margin: 0 auto;
         margin-bottom: 20px;
 
-        
     }
-    
     
     .right-about-heading {
         
@@ -476,6 +437,63 @@ button:hover {
     margin: 0 30px;
     }
 
+
+/* for small to medium screen size from 650px wide and down */
+
+@media screen and (max-width: 650px) {
+    #about {
+        width: 70%;
+        height: 1200px;
+        margin: 0 auto;
+
+    }
+
+    #menu, h1 {
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 90%;
+        
+        
+
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-about, #right-about {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+
     
+        .cancelbtn, .signupbtn {
+          width: 100%;
+          }
+      
+          #cover-text {
+            font-size: 50%;
+        }
+    
+        #logo {
+            width: 100%;
+        }
+}
+
+
 
 }
