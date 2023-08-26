@@ -111,6 +111,15 @@ h4 {
     
 }
 
+#Amb-blue {
+    max-width: 20%;  
+    height: auto;   
+    position: absolute;
+    right: 80%;
+    bottom: 70%;
+    background: url(../images/Amb-blue.png) no-repeat;
+}
+
 
 #cover-text {
     position: absolute;
