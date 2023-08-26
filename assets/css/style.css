@@ -66,9 +66,9 @@ h4 {
     flex-direction: row;
     justify-content: space-between;
     font-size: 150%;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
     width: 100%;
-    height: 100px;
+    height: 60px;
     border-bottom: 4px solid #7FFF00 ;
     border-top: 4px solid #7FFF00 ;
     align-items: center;
@@ -120,26 +120,16 @@ h4 {
     background: url(../images/Amb-blue.png) no-repeat;
 }
 
-
-#cover-text {
+#Hosp-logo {
+    max-width: 20%;  
+    height: auto;   
     position: absolute;
-    right: 60%;
-    bottom: 30%;
-    font-size: 95%;
-    font-family: Inconsolata, light;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    width: 20%;
-    height: 25%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    background-color: rgba(186, 189, 176, 0.7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
+    left: 80%;
+    bottom: 71%;
+    background: url(../images/Hosp.png) no-repeat;
 }
+
+
 /* about */
 #about {
     height: 500px;
@@ -371,17 +361,25 @@ button:hover {
         flex-direction: column;
     }
 
-    #cover-text {
-        font-size: 65%;
-    }
-
     #logo {
         width: 100%;
         display: flex;
         justify-content: center;
         
     }
-    
+
+    #Amb-blue {
+        max-width: 100%;  
+        display: flex;
+        justify-content: left;
+    }
+
+    #Hosp-logo {
+        max-width: 100%;  
+        display: flex;
+        justify-content: right;
+    }
+
     .left-about-heading {
         
         float: none;
@@ -470,8 +468,6 @@ button:hover {
         justify-content: space-between;
         font-size: 90%;
         
-        
-
     }
 
     #welcome {
@@ -501,14 +497,12 @@ button:hover {
           width: 100%;
           }
       
-          #cover-text {
-            font-size: 50%;
-        }
     
         #logo {
             width: 100%;
         }
-}
+        
+    }   
 
 
 
