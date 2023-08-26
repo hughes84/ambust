@@ -98,9 +98,7 @@ h4 {
     
     
 }
-#cover-text h2, #cover-text h3 {
-    color: #0E540E;
-}
+
 #ambulance-image {
     height: 500px;
     width: 100%;
@@ -279,7 +277,7 @@ footer {
   margin: 5px 0 22px 0;
   display: inline-block;
   border: none;
-  background: #f1f1f1;
+  background: #d8f2be;
 }
 
 input[type=text]:focus, input[type=password]:focus {
@@ -289,7 +287,7 @@ input[type=text]:focus, input[type=password]:focus {
 
 hr {
   border: 1px solid #0E540E;
-  margin-bottom: 25px;
+  margin-bottom: 75px;
 
 }
 
@@ -326,11 +324,20 @@ button:hover {
   padding: 16px;
 }
 
+#Medical-logo{
+    max-width: 20%;  
+    height: auto;   
+    position: absolute;
+    right: 40%;
+    background: url(../images/Medical-logo.png);
+}
+
 .container h3 {
     text-align: center;
     border-bottom: 8px solid #7FFF00;
     border-top: 8px solid #7FFF00;
     font-size: 30px;
+    
 }
 
 /* Clear floats */
@@ -369,15 +376,16 @@ button:hover {
     }
 
     #Amb-blue {
-        max-width: 100%;  
+        width: 100%; 
         display: flex;
-        justify-content: left;
+        margin-left: 200px;
     }
 
     #Hosp-logo {
         max-width: 100%;  
         display: flex;
-        justify-content: right;
+        
+        
     }
 
     .left-about-heading {
@@ -493,15 +501,15 @@ button:hover {
     }
 
     
-        .cancelbtn, .signupbtn {
+    .cancelbtn, .signupbtn {
           width: 100%;
           }
       
     
-        #logo {
+    #logo {
             width: 100%;
         }
-        
+
     }   
 
 

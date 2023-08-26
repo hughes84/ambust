@@ -158,7 +158,7 @@
 
         <form
             id="form"
-            style="border: 1px solid #ccc"
+            style="border: 1px solid #B1DB27"
             class="form-fields"
             method="GET"
             action="thankyou.html"
@@ -177,6 +177,7 @@
                     placeholder="Enter Email"
                     name="email"
                     required
+                    autocomplete="on"
                 />
 
                 <label id="psw"><b>Password</b></label>
@@ -194,16 +195,6 @@
                     name="psw-repeat"
                     required
                 />
-
-                <label>
-                    <input
-                        type="checkbox"
-                        checked="checked"
-                        name="remember"
-                        style="margin-bottom: 15px"
-                    />
-                    Remember me
-                </label>
 
                 <div class="clearfix">
                     <button type="button" class="cancelbtn">Cancel</button>
@@ -259,6 +250,9 @@
                     </a>
                 </li>
             </ul>
+            <div id="Medical-logo">
+                <img src="assets/images/Medical-logo.png" alt="Medical-logo"/>
+            </div>
         </footer>
 
         <!-- font awesome script -->
