@@ -11,6 +11,14 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 ![ambustu am i responsive](assets/images/Responsive1.png)
 
 
+![GitHub last commit](https://img.shields.io/github/last-commit/hughes84/ambust?color=red)
+![GitHub contributors](https://img.shields.io/github/contributors/hughes84/ambust?color=orange)
+![GitHub language count](https://img.shields.io/github/languages/count/hughes84/ambust?color=yellow)
+![GitHub top language](https://img.shields.io/github/languages/top/hughes84/ambust?color=green)
+![W3C Validation](https://img.shields.io/w3c-validation/html?color=blueviolet&targetUrl=https://hughes84.github.io/ambust/)
+___
+
+
 # Table of Contents
 
 - [First time visitor goals](#First-time-visitor-goals)
