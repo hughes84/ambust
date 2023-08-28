@@ -32,7 +32,7 @@ h1 {
     border-bottom: 8px solid #7FFF00;
     line-height: 40px ;
     text-align: center;
-    
+    background-color: rgba(241, 241, 79, 0.7);
     
 }
 
@@ -72,7 +72,7 @@ h4 {
     border-bottom: 4px solid #7FFF00 ;
     border-top: 4px solid #7FFF00 ;
     align-items: center;
-    background-color: rgba(177, 219, 39, 0.7);
+    background-color: rgba(241, 241, 79, 0.7);
 }
 
 
@@ -110,21 +110,25 @@ h4 {
 }
 
 #Amb-blue {
-    max-width: 20%;  
-    height: auto;   
+    width: 100px;  
+    height: 100px;   
     position: absolute;
     right: 80%;
-    bottom: 70%;
-    background: url(../images/Amb-blue.png) no-repeat;
+    top: 18%;
+    background: url(../images/Amb-blue.png) no-repeat center center;
+    background-size: contain;
+    border-radius: 40%;
 }
 
 #Hosp-logo {
-    max-width: 20%;  
-    height: auto;   
+    width: 100px;  
+    height: 100px;   
     position: absolute;
     left: 80%;
-    bottom: 71%;
+    top: 18%;
     background: url(../images/Hosp.png) no-repeat;
+    background-size: contain;
+    border-radius: 40%;
 }
 
 
@@ -308,13 +312,13 @@ button:hover {
 }
 
 /* Extra styles for the cancel button */
-.cancelbtn {
+.clearbtn {
   padding: 14px 20px;
   background-color: #f44336;
 }
 
 /* Float cancel and signup buttons and add an equal width */
-.cancelbtn, .signupbtn {
+.clearbtn, .signupbtn {
   float: left;
   width: 50%;
 }
@@ -376,15 +380,12 @@ button:hover {
     }
 
     #Amb-blue {
-        width: 100%; 
-        display: flex;
-        margin-left: 200px;
+        right: 90%;
+        
     }
 
     #Hosp-logo {
-        max-width: 100%;  
-        display: flex;
-        
+        left: 90%;
         
     }
 

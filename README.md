@@ -13,28 +13,26 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 
 # Table of Contents
 
-- First time visitor goals
-- Returning visitor goals
-- Frequent visitor goals
-- Visual Studio Code
-- Design
-  - Wireframe
--Testing
-  - HTML
-  - CSS
--Further testing
-  - Lighthouse testing
-- Colours
-- Typography
-- Imagery
-- Bugs
-- Features
-    - Navigation
--Deployment
-  - Github pages
-- Credits
-- Media
-- Acknowledgments
+- [First time visitor goals](#First-time-visitor-goals)
+- [Returning visitor goals](#Returning-visitor-goals)
+- [Frequent visitor goals](#Frequent-visitor-goals)
+- [Visual Studio Code](#Visual-Studio-Code)
+- [Design](Design)
+ - [Wireframe-Testing](#Wireframe-Testing)
+ - [HTML](#HTML)
+ - [CSS-Further testing](#CSS-Further-testing)
+ - [Lighthouse testing](#Lighthouse-testing)
+- [Colours](#Colours)
+- [Typography](#Typography)
+- [Imagery](#Imagery)
+- [Bugs](#Bugs)
+- [Features](#Features)
+ - [Navigation-Deployment](#Navigation-Deployment)
+ - [Github pages](#Github-pages)
+- [Credits](#Credits)
+- [Media](#Media)
+- [Acknowledgments](#Acknowledgments)
+
 
 
 # First time visitor goals
