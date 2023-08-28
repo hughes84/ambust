@@ -8,7 +8,7 @@ This website gives an insight into the core values and purpose of an Ambulance s
 Here you will find a live link to my website: https://hughes84.github.io/ambust/
 
 
-![ambustu am i responsive](https://github.com/hughes84/ambust/assets/134289376/f3724de9-7b6d-4e79-8d2e-79b549d4c0fb)
+![ambustu am i responsive](assets/images/Responsive1.png)
 
 
 # Table of Contents
