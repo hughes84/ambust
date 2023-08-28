@@ -18,17 +18,17 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 - [Frequent visitor goals](#Frequent-visitor-goals)
 - [Visual Studio Code](#Visual-Studio-Code)
 - [Design](Design)
- - [Wireframe-Testing](#Wireframe-Testing)
- - [HTML](#HTML)
- - [CSS-Further testing](#CSS-Further-testing)
- - [Lighthouse testing](#Lighthouse-testing)
+    - [Wireframe-Testing](#Wireframe-Testing)
+ - [Features](#Features)
+    - [Existing Features](#Existing-Features)
+    - [Navigation-Deployment](#Navigation-Deployment)
+    - [HTML](#HTML)
+    - [CSS-Further testing](#CSS-Further-testing)
+    - [Lighthouse testing](#Lighthouse-testing)
 - [Colours](#Colours)
 - [Typography](#Typography)
 - [Imagery](#Imagery)
 - [Bugs](#Bugs)
-- [Features](#Features)
- - [Navigation-Deployment](#Navigation-Deployment)
- - [Github pages](#Github-pages)
 - [Credits](#Credits)
 - [Media](#Media)
 - [Acknowledgments](#Acknowledgments)
@@ -59,6 +59,8 @@ Here you will find a live link to my website: https://hughes84.github.io/ambust/
 
 VS Code my main platform used to code while utilizing the terminal to commit and Push to GitHub.
 
+[Back to Table of Contents](#table-of-contents)
+
 
 # Design
 
@@ -73,6 +75,8 @@ I invisaged my first website to be basic, prompt and staright to the point. I wa
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/f359f720-3854-43be-a3ec-19d500f0f50e)
+
+[Back to Table of Contents](#table-of-contents)
 
 
 # Features
@@ -90,6 +94,10 @@ On the Staff page at the top it describes what you will see in Meet our staff. I
 
 
 On the sign up page I kept with the same theme and colors. I did use a red for the cancel button to highlight it. Here you are encouraged to sign up if you would like to create an account and join the service. A correctly formatted email address is required. If all lines are completed correctly you will be directed to a thank you page thanking you for your application.
+
+[Back to Table of Contents](#table-of-contents)
+
+# Existing Features
 
 
 The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the right. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
@@ -119,6 +127,8 @@ On the bottom of the page there are four live links to Facebook, Twitter, Youtub
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/303704c1-63f0-4481-aa70-423564263e64)
 
+[Back to Table of Contents](#table-of-contents)
+
 
 # Testing
 
@@ -137,6 +147,8 @@ I had misused an id tag.
 
 > This is the result for my index.html page.
 
+[Back to Table of Contents](#table-of-contents)
+
 
 **When testing my thankyou.html code i used W3C Markup Validator and found no errors.**
 
@@ -145,6 +157,8 @@ I had misused an id tag.
 
 
 > This is the result for my thankyou.html page.
+
+[Back to Table of Contents](#table-of-contents)
 
 
 # CSS
@@ -155,6 +169,8 @@ I had misused an id tag.
 
 
 > This is the result for my style.css page.
+
+[Back to Table of Contents](#table-of-contents)
 
 
 # Further testing
@@ -168,6 +184,8 @@ I had misused an id tag.
 - External links: Facebook, Twitter, Youtube and Instagram.
 - Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
 
+[Back to Table of Contents](#table-of-contents)
+
 
 # Lighthouse testing
 
@@ -175,6 +193,8 @@ I used Lighthouse testing to audit for performance and accessibility.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/9e8ea987-29c6-426b-8fc6-6b061843c8e4)
+
+[Back to Table of Contents](#table-of-contents)
 
 
 # Colours
@@ -190,6 +210,8 @@ The Inconsolata font is the title font I used with Sans Serif as the fallback fo
 # Imagery
 
 The large, background image stretches through the landing page and is designed to be striking and catch the user's attention at the very first glance and to give the user the idea behind the website. I sourced this image of the fleet of the Irish ambulance service online and downloaded it. The second image is a picture I took of myself at work in the National Ambulance Service. I used some pictures of my work collegaues for the staff section from Facebook with their consent.
+
+[Back to Table of Contents](#table-of-contents)
 
 
 # Bugs
@@ -211,6 +233,7 @@ I had some preformance issues in the begining but I managed to rectify it by inc
 6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 7. Live link for the page can be found here "ambust".
 
+[Back to Table of Contents](#table-of-contents)
 
 
 # Credits
@@ -248,7 +271,7 @@ Special thank you goes to Laura from Code Institute for keeping me motivated on 
 Thank you to all at Code Institute for the opportunity. 
 My peers on slack especially Jamie O'Neill who often took time from his own schedule to look over my work.
 
-
+[Back to Table of Contents](#table-of-contents)
 
 
 
