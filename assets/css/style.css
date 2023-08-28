@@ -113,7 +113,7 @@ h4 {
     width: 100px;  
     height: 100px;   
     position: absolute;
-    right: 80%;
+    right: 83%;
     top: 18%;
     background: url(../images/Amb-blue.png) no-repeat center center;
     background-size: contain;
@@ -124,7 +124,7 @@ h4 {
     width: 100px;  
     height: 100px;   
     position: absolute;
-    left: 80%;
+    left: 83%;
     top: 18%;
     background: url(../images/Hosp.png) no-repeat;
     background-size: contain;
@@ -379,15 +379,6 @@ button:hover {
         
     }
 
-    #Amb-blue {
-        right: 90%;
-        
-    }
-
-    #Hosp-logo {
-        left: 90%;
-        
-    }
 
     .left-about-heading {
         
@@ -469,6 +460,16 @@ button:hover {
         height: 1200px;
         margin: 0 auto;
 
+    }
+
+    #Amb-blue {
+        display: none;
+        
+    }
+
+    #Hosp-logo {
+        display: none;
+        
     }
 
     #menu, h1 {
