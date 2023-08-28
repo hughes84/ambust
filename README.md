@@ -63,6 +63,7 @@ VS Code my main platform used to code while utilizing the terminal to commit and
 # Design
 
 
+
 **Wireframe**
 
 I invisaged my first website to be basic, prompt and staright to the point. I wanted some images to jump out to grab the users attention immediately. 
@@ -72,6 +73,23 @@ I invisaged my first website to be basic, prompt and staright to the point. I wa
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/f359f720-3854-43be-a3ec-19d500f0f50e)
+
+
+# Features
+
+**Navigation:**
+
+My navigation is placed on the top right of the page . It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up.
+On the Home page there is a large image of various fleet and personnel with bright colors linked with the ambulance service. I also have the name of the website at the top as well as a short description of the service embedded on the image.
+
+
+On the About page I have a centred picture of myself at work in uniform with an ambulance in the background. I have this centred with a bright border again showing the bright ambulance colors. At the top I have a heading for the section on whar we do as a service, explained in more detail in four paragraphs, two on the left, two on the right, all titled. Again in the centre closer to the bottom I have the Pre Hospital Emergency Care Council logo. This is the body where Paramedics in Ireland get their licences from.
+
+
+On the Staff page at the top it describes what you will see in Meet our staff. I then introduce three of my colleagues seperately giving a brief description of their journey and role in the service. Each is then followed by a picture on duty.
+
+
+On the sign up page I kept with the same theme and colors. I did use a red for the cancel button to highlight it. Here you are encouraged to sign up if you would like to create an account and join the service. A correctly formatted email address is required. If all lines are completed correctly you will be directed to a thank you page thanking you for your application.
 
 
 The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the right. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
@@ -178,25 +196,6 @@ The large, background image stretches through the landing page and is designed t
 
 As I was buliding my website I was constantly debuging and changing my code
 I had some preformance issues in the begining but I managed to rectify it by increasing and decreasing the size of my images and testing different style, ie. float to flex. I tested my page regularly through inspect as well as on various different websites for responsive testing.
-
- 
-
-# Features
-
-**Navigation:**
-
-My navigation is placed on the top right of the page . It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up.
-On the Home page there is a large image of various fleet and personnel with bright colors linked with the ambulance service. I also have the name of the website at the top as well as a short description of the service embedded on the image.
-
-
-On the About page I have a centred picture of myself at work in uniform with an ambulance in the background. I have this centred with a bright border again showing the bright ambulance colors. At the top I have a heading for the section on whar we do as a service, explained in more detail in four paragraphs, two on the left, two on the right, all titled. Again in the centre closer to the bottom I have the Pre Hospital Emergency Care Council logo. This is the body where Paramedics in Ireland get their licences from.
-
-
-On the Staff page at the top it describes what you will see in Meet our staff. I then introduce three of my colleagues seperately giving a brief description of their journey and role in the service. Each is then followed by a picture on duty.
-
-
-On the sign up page I kept with the same theme and colors. I did use a red for the cancel button to highlight it. Here you are encouraged to sign up if you would like to create an account and join the service. A correctly formatted email address is required. If all lines are completed correctly you will be directed to a thank you page thanking you for your application.
-
 
 
 # Deployment
