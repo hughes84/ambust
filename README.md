@@ -239,7 +239,7 @@ I had some preformance issues in the begining but I managed to rectify it by inc
 # Credits
 
 1. Credit to  W3 Schools for helping me resolve issues while coding throughout and when creating my sign up form.
-2. The Love running project from Code Institute was a useful guide at times also and helped me get started. I also referred    back to it several times for ideas.
+2. The Love running project from Code Institute was a useful guide at times also and helped me get started.    
 3. Slack was also very helpful with peer assistance on occasion when stuck with a code.
 4. GitHub for storing the projects code.
 5. Color-hex.com for colors.
@@ -250,10 +250,10 @@ I had some preformance issues in the begining but I managed to rectify it by inc
 10. I love IMG for helping resize some images.
 11. Am I responsive for helping check responsiveness of different sized screen sizes.
 12. NHS South Central Ambulance Service. I used this website for some ideas in the about section.
-13. tmarkec for allowing me to use layout of README.md for guidance.
-14. Freepik for cartoon images for README.md.
-15. Markdownguide.org for syntax for README.md.
-16. Visual Studio Code for being my Integrated development environment.
+13. Freepik for cartoon images for README.md.
+14. Markdownguide.org for syntax for README.md.
+15. Visual Studio Code for being my Integrated development environment.
+ 
 
 
 # Media
