@@ -91,24 +91,14 @@ I invisaged my first website to be basic, prompt and staright to the point. I wa
 
 **Navigation:**
 
-My navigation is placed on the top right of the page . It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up.
-On the Home page there is a large image of various fleet and personnel with bright colors linked with the ambulance service. I also have the name of the website at the top as well as a short description of the service embedded on the image.
-
-
-On the About page I have a centred picture of myself at work in uniform with an ambulance in the background. I have this centred with a bright border again showing the bright ambulance colors. At the top I have a heading for the section on whar we do as a service, explained in more detail in four paragraphs, two on the left, two on the right, all titled. Again in the centre closer to the bottom I have the Pre Hospital Emergency Care Council logo. This is the body where Paramedics in Ireland get their licences from.
-
-
-On the Staff page at the top it describes what you will see in Meet our staff. I then introduce three of my colleagues seperately giving a brief description of their journey and role in the service. Each is then followed by a picture on duty.
-
-
-On the sign up page I kept with the same theme and colors. I did use a red for the cancel button to highlight it. Here you are encouraged to sign up if you would like to create an account and join the service. A correctly formatted email address is required. If all lines are completed correctly you will be directed to a thank you page thanking you for your application.
+My navigation bar is placed on the top of the page underneath the logo. It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up. When scrolling on smaller devices it will stay fixed as to allow the user to go to any section they want with ease.
 
 [Back to Table of Contents](#table-of-contents)
 
 # Existing Features
 
 
-The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible to the right. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
+The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible underneath. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/0a9dfc60-5be5-4c18-aed7-3d3133b256bd)
@@ -130,7 +120,8 @@ Scrolling down, I introduce the user to three of my colleagues from the service.
 ![image](https://github.com/hughes84/ambust/assets/134289376/b99809a9-80db-4813-b9ae-2cadc27407f0)
 
 At the end of the site the user is met with the sign up page. Here the user is given the option to make an account, signing up to join the service. The user must enter a valid email address to submit the form. On completion of entering a valid email address and password the user will click the sign up button below. They will then be directed to a new page, where the following message will appear; Thank You, Your Form Has Been Submitted!Thank you for your application, we will be in contact in due course.
-On the bottom of the page there are four live links to Facebook, Twitter, Youtube and Instagram.
+If the user wishes to clear their entry and start over, this can be done using the clear button.
+On the bottom of the page there are five live links to Facebook, Twitter, Youtube, Instagram and Copyright.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/303704c1-63f0-4481-aa70-423564263e64)
@@ -184,13 +175,15 @@ I had misused an id tag.
 # Further testing
 
 - I've tested that this page works in different browsers such as Chrome, Firefox, Microsoft Edge and Safari.
-- I've tested that this website is responsive, and looks good on all standard screen sizes the smallest at 320px all the way up to 1400px.
+- I've tested that this website is responsive, and looks good on all standard screen sizes the smallest at 320px   all the way up to 1400px.
 - I've confirmed that my webiste has good visibility contrast and it's easy readable for the user, with good contrast colours and displaying good accessibility performance.
-- I've tested that all internal links are working properly and navigate me through the pages, and clicking on logo takes me back to the home page.
+- I've tested that all internal links are working properly and navigate me through the pages, and clicking the fixed navigation bar brings me back to the relevant section.
 - Internal links: Home, About, Staff, Sign Up as well as sign up button sign up page.
-- I've tested that all external links are taking me to new tab and to related pages that where either in discription or in text.
-- External links: Facebook, Twitter, Youtube and Instagram.
+- I've tested that all external links are taking me to new tab and to related pages that where either in description or in text.
+- External links: Facebook, Twitter, Youtube, Instagram and Copyright.
 - Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
+- Clear button working as should.
+- Fixed navigation bar stays in place for smaller devices when scrolling.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -200,14 +193,14 @@ I had misused an id tag.
 I used Lighthouse testing to audit for performance and accessibility.
 
 
-![image](https://github.com/hughes84/ambust/assets/134289376/9e8ea987-29c6-426b-8fc6-6b061843c8e4)
+![image](assets/images/Lighthouset.png)
 
 [Back to Table of Contents](#table-of-contents)
 
 
 # Colours
 
-The colours chosen for this project are those similar to the national ambulance service colours. I used 'green' with it's hex value of '#0e540e', which was used for headings, hover effects and borders. I also used another light green/yellow color to symbolize the luminous bright colour of the Irish ambulances with an rgba(177, 219, 39, 0.7) this also gave the appearance of a see through effect. Around the image of myself I used a brighter 'chartreuse' colour to brighten up the page a bit more with a hex value of '#7fff00'. I used a red hex value '#f44336' for my cancel button on sign up form to highlight the cancel.
+The colours chosen for this project are those similar to the national ambulance service colours. I used 'green' with it's hex value of '#0e540e', which was used for headings, hover effects and borders, with a background colour of rgba(241, 241, 79, 0.7), on the heading and navigation on the main page. I also used another light green/yellow color to symbolize the luminous bright colour of the Irish ambulances with an rgba(177, 219, 39, 0.7) this also gave the appearance of a see through effect. Around the image of myself I used a brighter 'chartreuse' colour to brighten up the page a bit more with a hex value of '#7fff00'. The input sections on sign up form I used a lighter green of '#d8f2be', and when details are input this changes to a white '#ddd', for clearer viewing. I used a red hex value '#f44336' for my cancel button on sign up form to highlight the cancel. I used a neutral colour of '#FFF2CC' as a background throughout the site which I feel compliments it well.  
 
 
 # Typography
@@ -277,7 +270,7 @@ I had some preformance issues in the begining but I managed to rectify it by inc
 
 Special thank you goes to Laura from Code Institute for keeping me motivated on weekly stand up calls on slack throughout project. Always available for guidance.
 Thank you to all at Code Institute for the opportunity. 
-My peers on slack especially Jamie O'Neill who often took time from his own schedule to look over my work.
+My peers on slack especially Cohort Jamie O'Neill who often took time from his own schedule to look over my work.
 
 [Back to Table of Contents](#table-of-contents)
 
