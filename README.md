@@ -134,7 +134,7 @@ On the bottom of the page there are five live links to Facebook, Twitter, Youtub
 # HTML
 
 **When testing my index.html code i used W3C Markup Validator and found an error.**
-I had misused an id tag.
+I had misused an id tag, I had some uneeded trailing slashs on elements and an unquoted attribute.
 
 
 ![image](https://github.com/hughes84/ambust/assets/134289376/7f97e165-32d3-438f-81fc-d0aa154ec255)
@@ -145,6 +145,9 @@ I had misused an id tag.
 
 
 > This is the result for my index.html page.
+
+![image](assets/images/W3C%20Validator.png)
+
 
 [Back to Table of Contents](#table-of-contents)
 
