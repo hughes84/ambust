@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Poppins:ital,wght@1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Poppins:ital,wght@1,700&display=swap");
 * {
     margin: 0;
     padding: 0;
@@ -30,34 +30,29 @@ h1 {
     padding: 4px;
     border-top: 8px solid #7FFF00;
     border-bottom: 8px solid #7FFF00;
-    line-height: 40px ;
+    line-height: 40px;
     text-align: center;
     background-color: rgba(241, 241, 79, 0.7);
-    
 }
 
 #logo {
     width: 100%;
     display: flex;
     justify-content: center;
-    
 }
 
-h2, h3 {
+h2,
+h3 {
     font-family: Poppins, sans-serif;
     text-transform: capitalize;
     letter-spacing: 3px;
     color: #0E540E;
-    
-    
 }
 h4 {
     font-family: Poppins, sans-serif;
     text-transform: capitalize;
     letter-spacing: 3px;
     color: #0E540E;
-    
-    
 }
 
 /* navigation links */
@@ -69,12 +64,11 @@ h4 {
     letter-spacing: 4px;
     width: 100%;
     height: 60px;
-    border-bottom: 4px solid #7FFF00 ;
-    border-top: 4px solid #7FFF00 ;
+    border-bottom: 4px solid #7FFF00;
+    border-top: 4px solid #7FFF00;
     align-items: center;
     background-color: rgba(241, 241, 79, 0.7);
 }
-
 
 #menu li {
     list-style-type: none;
@@ -95,8 +89,6 @@ h4 {
     height: 500px;
     width: 100%;
     position: relative;
-    
-    
 }
 
 #ambulance-image {
@@ -105,13 +97,11 @@ h4 {
     margin-top: 50px;
     background: url(../images/ambu1.jpg) no-repeat center center;
     background-size: contain;
-  
-    
 }
 
 #Amb-blue {
-    width: 100px;  
-    height: 100px;   
+    width: 100px;
+    height: 100px;
     position: absolute;
     right: 83%;
     top: 18%;
@@ -121,8 +111,8 @@ h4 {
 }
 
 #Hosp-logo {
-    width: 100px;  
-    height: 100px;   
+    width: 100px;
+    height: 100px;
     position: absolute;
     left: 83%;
     top: 18%;
@@ -131,21 +121,19 @@ h4 {
     border-radius: 40%;
 }
 
-#Medical-logo{
-    max-width: 20%;  
-    height: auto;   
+#Medical-logo {
+    max-width: 20%;
+    height: auto;
     position: absolute;
     right: 40%;
     background: url(../images/Medical-logo.png);
 }
-
 
 /* about */
 #about {
     height: 500px;
     display: flex;
     flex-direction: column;
-    
 }
 #left-about {
     padding-top: 50px;
@@ -168,7 +156,7 @@ h4 {
 }
 hr {
     border-top: 2px solid #0E540E;
-    
+
     margin: 3px 0;
 }
 .left-about-heading {
@@ -178,7 +166,6 @@ hr {
     clear: both;
     margin-bottom: 40px;
 }
-
 
 .right-about-heading {
     width: 70%;
@@ -203,7 +190,6 @@ hr {
     text-decoration: underline;
 }
 
-
 #circle-container {
     width: 300px;
     height: 450px;
@@ -219,13 +205,13 @@ hr {
     border-radius: 70%;
     border: 5px solid #7FFF00;
     padding: 5px;
-    
+
     background-size: cover;
 }
 #phecc-badge {
     background: url(../images/phecc2.jpg) no-repeat center;
     height: 100%;
-    width:100%;
+    width: 100%;
 }
 #staff-heading {
     width: 70%;
@@ -233,10 +219,9 @@ hr {
     margin: 0px auto 40px auto;
 }
 #staff-section {
-   width: 100%;
-   display: flex;
-   flex-direction: column;
-    
+    width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 #staff-div {
     display: flex;
@@ -250,7 +235,6 @@ hr {
     height: 500px;
     display: flex;
     flex-direction: column;
-    
 }
 
 .box img {
@@ -260,7 +244,6 @@ hr {
     align-self: flex-end;
     display: flex;
     padding-top: 5px;
-    
 }
 
 /* footer section*/
@@ -270,89 +253,90 @@ footer {
 }
 
 .social-media {
-    
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     list-style-type: none;
-
 }
 .social-media i {
     font-size: 200%;
     padding: 8%;
-    color:#0E540E;
+    color: #0E540E;
 }
 
-* {box-sizing: border-box}
+* {
+    box-sizing: border-box;
+}
 
 /* Full-width input fields */
-  input[type=text], input[type=password], input[type=email] {
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: inline-block;
-  border: none;
-  background: #d8f2be;
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #d8f2be;
 }
 
-input[type=text]:focus, input[type=password]:focus {
-  background-color: #ddd;
-  outline: none;
+input[type="text"]:focus,
+input[type="password"]:focus {
+    background-color: #ddd;
+    outline: none;
 }
 
 hr {
-  border: 1px solid #0E540E;
-  margin-bottom: 75px;
-
+    border: 1px solid #0E540E;
+    margin-bottom: 75px;
 }
 
 /* Set a style for all buttons */
 button {
-  background-color: #0E540E;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
+    background-color: #0E540E;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
 }
 
 button:hover {
-  opacity:1;
+    opacity: 1;
 }
 
 /* Extra styles for the cancel button */
 .clearbtn {
-  padding: 14px 20px;
-  background-color: #f44336;
+    padding: 14px 20px;
+    background-color: #f44336;
 }
 
 /* Float cancel and signup buttons and add an equal width */
-.clearbtn, .signupbtn {
-  float: left;
-  width: 50%;
+.clearbtn,
+.signupbtn {
+    float: left;
+    width: 50%;
 }
 
 /* Add padding to container elements */
 .container {
-  padding: 16px;
+    padding: 16px;
 }
-
 
 .container h3 {
     text-align: center;
     border-bottom: 8px solid #7FFF00;
     border-top: 8px solid #7FFF00;
     font-size: 30px;
-    
 }
 
 /* Clear floats */
 .clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
+    content: "";
+    clear: both;
+    display: table;
 }
 
 #thank-you-info {
@@ -364,15 +348,12 @@ button:hover {
     align-items: center;
 }
 
-
 /* media queries */
 
 /* for medium screen sizes of 950px wide and down */
 
 @media screen and (max-width: 950px) {
-
     header {
-    
         flex-direction: column;
     }
 
@@ -381,7 +362,6 @@ button:hover {
         display: flex;
         justify-content: center;
         margin-top: 100px;
-        
     }
 
     #menu {
@@ -392,8 +372,8 @@ button:hover {
         letter-spacing: 4px;
         width: 100%;
         height: 60px;
-        border-bottom: 4px solid #7FFF00 ;
-        border-top: 4px solid #7FFF00 ;
+        border-bottom: 4px solid #7FFF00;
+        border-top: 4px solid #7FFF00;
         align-items: center;
         background-color: rgba(241, 241, 79, 0.7);
         position: fixed;
@@ -401,40 +381,32 @@ button:hover {
         left: 0;
     }
 
-
     .left-about-heading {
-        
         float: none;
         line-height: 25px;
         clear: both;
         margin: 0 auto;
         margin-bottom: 20px;
-
     }
-    
+
     .right-about-heading {
-        
         line-height: 25px;
         clear: both;
         text-align: left;
         margin: 0 auto;
         margin-bottom: 20px;
     }
-    
 
     #left-about {
         width: 90%;
         float: none;
         margin: 0 auto;
-    
-        
     }
     #right-about {
         float: none;
         clear: both;
         width: 90%;
         margin: 0 auto;
-        
     }
     #center-about {
         width: 90%;
@@ -442,15 +414,12 @@ button:hover {
         margin: 0 auto;
         float: none;
         clear: both;
-        
     }
 
     #ambulance-outer {
         height: 300px;
         width: 100%;
         position: relative;
-        
-        
     }
 
     #ambulance-image {
@@ -459,106 +428,90 @@ button:hover {
         margin-top: 50px;
         background: url(../images/ambu1.jpg) no-repeat center center;
         background-size: contain;
-      
-        
     }
 
-
-
     #circle-cover-bg {
-    width: 300px;
-    margin: 0 auto;
-    flex-direction: column;
-
+        width: 300px;
+        margin: 0 auto;
+        flex-direction: column;
     }
 
     #staff {
-    width: 100%;
-    clear: both;
-    height: 150px;
-    font-size: 30px;
-
-
+        width: 100%;
+        clear: both;
+        height: 150px;
+        font-size: 30px;
     }
 
     #staff-div {
-    flex-direction: column;
-    margin: 0 auto;
-
+        flex-direction: column;
+        margin: 0 auto;
     }
 
     .box {
-    max-width: 500px;
-    margin: 0 30px;
+        max-width: 500px;
+        margin: 0 30px;
     }
 
+    /* for small to medium screen size from 650px wide and down */
 
-/* for small to medium screen size from 650px wide and down */
+    @media screen and (max-width: 650px) {
+        #about {
+            width: 70%;
+            height: 1200px;
+            margin: 0 auto;
+        }
 
-@media screen and (max-width: 650px) {
-    #about {
-        width: 70%;
-        height: 1200px;
-        margin: 0 auto;
+        #Amb-blue {
+            display: none;
+        }
 
-    }
+        #Hosp-logo {
+            display: none;
+        }
 
-    #Amb-blue {
-        display: none;
-        
-    }
+        #Medical-logo {
+            display: none;
+        }
 
-    #Hosp-logo {
-        display: none;
-        
-    }
+        #menu,
+        h1 {
+            display: inline-flex;
+            flex-direction: row;
+            justify-content: space-between;
+            font-size: 90%;
+        }
 
-    #Medical-logo {
-        display: none;
-    }
+        #welcome {
+            padding: 30px 0;
+            margin: 0;
+        }
 
-    #menu, h1 {
-        display: inline-flex;
-        flex-direction: row;
-        justify-content: space-between;
-        font-size: 90%;
-        
-    }
+        #left-about,
+        #right-about {
+            width: 100%;
+            float: left;
+            padding: 0;
+        }
 
-    #welcome {
-        padding: 30px 0;
-        margin: 0;
-    }
+        #center-about {
+            clear: both;
+            width: 100%;
+            float: left;
+            padding: 0;
+        }
 
-    #left-about, #right-about {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
+        hr {
+            display: none;
+        }
 
-    #center-about {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    hr {
-        display: none;
-    }
-
-    
-    .cancelbtn, .signupbtn {
-          width: 100%;
-          }
-      
-    
-    #logo {
+        .cancelbtn,
+        .signupbtn {
             width: 100%;
         }
 
-    }   
-
-
-
+        #logo {
+            width: 100%;
+        }
+    }
 }
