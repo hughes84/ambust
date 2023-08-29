@@ -41,8 +41,7 @@ h1 {
     justify-content: center;
 }
 
-h2,
-h3 {
+h2, h3 {
     font-family: Poppins, sans-serif;
     text-transform: capitalize;
     letter-spacing: 3px;
@@ -122,11 +121,12 @@ h4 {
 }
 
 #Medical-logo {
-    max-width: 20%;
+    
     height: auto;
-    position: absolute;
-    right: 40%;
-    background: url(../images/Medical-logo.png);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: url(../images/Medical-logo.png) no-repeat center;
 }
 
 /* about */
@@ -358,7 +358,7 @@ button:hover {
     }
 
     #logo {
-        width: 100%;
+        width: 50%;
         display: flex;
         justify-content: center;
         margin-top: 100px;
@@ -417,13 +417,13 @@ button:hover {
     }
 
     #ambulance-outer {
-        height: 300px;
+        height: 200px;
         width: 100%;
         position: relative;
     }
 
     #ambulance-image {
-        height: 300px;
+        height: 200px;
         width: 100%;
         margin-top: 50px;
         background: url(../images/ambu1.jpg) no-repeat center center;
