@@ -21,9 +21,10 @@ ___
 
 # Table of Contents
 
-- [First time visitor goals](#First-time-visitor-goals)
-- [Returning visitor goals](#Returning-visitor-goals)
-- [Frequent visitor goals](#Frequent-visitor-goals)
+- [User stories](#User-stories)
+    - [First time visitor goals](#First-time-visitor-goals)
+    - [Returning visitor goals](#Returning-visitor-goals)
+    - [Frequent visitor goals](#Frequent-visitor-goals)
 - [Visual Studio Code](#Visual-Studio-Code)
 - [Design](Design)
     - [Wireframe-Testing](#Wireframe-Testing)
@@ -137,16 +138,9 @@ On the bottom of the page there are five live links to Facebook, Twitter, Youtub
 I had misused an id tag, I had some uneeded trailing slashs on elements and an unquoted attribute.
 
 
-![image](https://github.com/hughes84/ambust/assets/134289376/7f97e165-32d3-438f-81fc-d0aa154ec255)
-![image](https://github.com/hughes84/ambust/assets/134289376/68d5f181-1d27-4945-b5a6-c34b67e25f26)
-![image](https://github.com/hughes84/ambust/assets/134289376/e1f830f1-26c6-4e22-9270-50df6c66b45d)
-![image](https://github.com/hughes84/ambust/assets/134289376/5313b5da-36fa-4d5c-8441-4f273ec9bb17)
-![image](https://github.com/hughes84/ambust/assets/134289376/19a88da1-1ceb-4ff2-9f1f-35a95d8122a5)
-
+![image](assets/images/W3C%20Validator.png)
 
 > This is the result for my index.html page.
-
-![image](assets/images/W3C%20Validator.png)
 
 
 [Back to Table of Contents](#table-of-contents)
@@ -154,8 +148,7 @@ I had misused an id tag, I had some uneeded trailing slashs on elements and an u
 
 **When testing my thankyou.html code i used W3C Markup Validator and found no errors.**
 
-![image](https://github.com/hughes84/ambust/assets/134289376/3227ceed-01cc-4996-a174-a9d27836f508)
-![image](https://github.com/hughes84/ambust/assets/134289376/3e906b1b-934a-4e8f-87c1-1c5bb99b7122)
+
 
 
 > This is the result for my thankyou.html page.

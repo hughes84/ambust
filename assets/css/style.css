@@ -4,15 +4,18 @@
     padding: 0;
     border: none;
 }
+
 body {
     background-color: #FFF2CC;
     font-family: Inconsolata, light;
     font-weight: 200;
     color: #0E540E;
 }
+
 a {
     text-decoration: none;
 }
+
 /* headings and logo */
 header {
     display: flex;
@@ -22,6 +25,7 @@ header {
     height: 200px;
     width: 100%;
 }
+
 h1 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
@@ -47,6 +51,7 @@ h2, h3 {
     letter-spacing: 3px;
     color: #0E540E;
 }
+
 h4 {
     font-family: Poppins, sans-serif;
     text-transform: capitalize;
@@ -73,24 +78,28 @@ h4 {
     list-style-type: none;
     padding: 10px;
 }
+
 #menu a {
     text-decoration: none;
     color: inherit;
 }
+
 #menu a:hover {
     border-bottom: 1px solid #0E540E;
 }
+
 .active {
     border-bottom: 1px solid #0E540E;
 }
-/* ambulance image and cover-text */
-#ambulance-outer {
+
+/* hero image and cover-text */
+#hero-section {
     height: 500px;
     width: 100%;
     position: relative;
 }
 
-#ambulance-image {
+#hero-image {
     height: 500px;
     width: 100%;
     margin-top: 50px;
@@ -98,7 +107,7 @@ h4 {
     background-size: contain;
 }
 
-#Amb-blue {
+#ambulance-logo {
     width: 100px;
     height: 100px;
     position: absolute;
@@ -109,7 +118,7 @@ h4 {
     border-radius: 40%;
 }
 
-#Hosp-logo {
+#hospital-logo {
     width: 100px;
     height: 100px;
     position: absolute;
@@ -120,7 +129,7 @@ h4 {
     border-radius: 40%;
 }
 
-#Medical-logo {
+#medical-logo {
     
     height: auto;
     width: 100%;
@@ -135,17 +144,20 @@ h4 {
     display: flex;
     flex-direction: column;
 }
+
 #left-about {
     padding-top: 50px;
     width: 25%;
     float: left;
 }
+
 #right-about {
     padding-top: 50px;
     width: 25%;
     float: right;
     text-align: right;
 }
+
 #center-about {
     width: 25%;
     margin: 0 auto;
@@ -154,11 +166,13 @@ h4 {
     flex-direction: column;
     justify-content: space-evenly;
 }
+
 hr {
     border-top: 2px solid #0E540E;
 
     margin: 3px 0;
 }
+
 .left-about-heading {
     width: 70%;
     float: right;
@@ -199,6 +213,7 @@ hr {
     border-width: 8px;
     border-radius: 50%;
 }
+
 #circle-cover-bg {
     background: url(../images/para2.jpg) no-repeat center;
     height: 100%;
@@ -208,21 +223,25 @@ hr {
 
     background-size: cover;
 }
+
 #phecc-badge {
     background: url(../images/phecc2.jpg) no-repeat center;
     height: 100%;
     width: 100%;
 }
+
 #staff-heading {
     width: 70%;
     line-height: 25px;
     margin: 0px auto 40px auto;
 }
+
 #staff-section {
     width: 100%;
     display: flex;
     flex-direction: column;
 }
+
 #staff-div {
     display: flex;
     flex-direction: row;
@@ -264,8 +283,7 @@ footer {
     color: #0E540E;
 }
 
-* {
-    box-sizing: border-box;
+* {box-sizing: border-box;
 }
 
 /* Full-width input fields */
@@ -402,12 +420,14 @@ button:hover {
         float: none;
         margin: 0 auto;
     }
+
     #right-about {
         float: none;
         clear: both;
         width: 90%;
         margin: 0 auto;
     }
+
     #center-about {
         width: 90%;
         height: 800px;
@@ -416,13 +436,13 @@ button:hover {
         clear: both;
     }
 
-    #ambulance-outer {
+    #hero-section {
         height: 200px;
         width: 100%;
         position: relative;
     }
 
-    #ambulance-image {
+    #hero-image {
         height: 200px;
         width: 100%;
         margin-top: 50px;
@@ -462,20 +482,19 @@ button:hover {
             margin: 0 auto;
         }
 
-        #Amb-blue {
+        #ambulance-logo {
             display: none;
         }
 
-        #Hosp-logo {
+        #hospital-logo {
             display: none;
         }
 
-        #Medical-logo {
+        #medical-logo {
             display: none;
         }
 
-        #menu,
-        h1 {
+        #menu,h1 {
             display: inline-flex;
             flex-direction: row;
             justify-content: space-between;
@@ -487,8 +506,7 @@ button:hover {
             margin: 0;
         }
 
-        #left-about,
-        #right-about {
+        #left-about, #right-about {
             width: 100%;
             float: left;
             padding: 0;
@@ -505,8 +523,7 @@ button:hover {
             display: none;
         }
 
-        .cancelbtn,
-        .signupbtn {
+        .cancelbtn, .signupbtn {
             width: 100%;
         }
 
