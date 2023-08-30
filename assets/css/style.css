@@ -8,7 +8,7 @@
 body {
     background-color: #FFF2CC;
     font-family: Inconsolata, light;
-    font-weight: 200;
+    font-weight: 800;
     color: #0E540E;
 }
 
@@ -32,17 +32,17 @@ h1 {
     letter-spacing: 4px;
     color: #0E540E;
     padding: 4px;
-    border-top: 8px solid #7FFF00;
-    border-bottom: 8px solid #7FFF00;
     line-height: 40px;
     text-align: center;
-    background-color: rgba(241, 241, 79, 0.7);
+    
 }
 
 #logo {
     width: 100%;
     display: flex;
     justify-content: center;
+    margin-top: 100px;
+    
 }
 
 h2, h3 {
@@ -63,7 +63,7 @@ h4 {
 #menu {
     display: inline-flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-size: 150%;
     letter-spacing: 4px;
     width: 100%;
@@ -71,7 +71,11 @@ h4 {
     border-bottom: 4px solid #7FFF00;
     border-top: 4px solid #7FFF00;
     align-items: center;
-    background-color: rgba(241, 241, 79, 0.7);
+    background-color: rgba(241, 241, 79);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3;
 }
 
 #menu li {
@@ -94,159 +98,113 @@ h4 {
 
 /* hero image and cover-text */
 #hero-section {
-    height: 500px;
+    height: 600px;
     width: 100%;
     position: relative;
 }
 
 #hero-image {
-    height: 500px;
+    height: 600px;
     width: 100%;
     margin-top: 50px;
     background: url(../images/ambu1.jpg) no-repeat center center;
     background-size: contain;
-}
-
-#ambulance-logo {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    right: 83%;
-    top: 18%;
-    background: url(../images/Amb-blue.png) no-repeat center center;
-    background-size: contain;
-    border-radius: 40%;
-}
-
-#hospital-logo {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    left: 83%;
-    top: 18%;
-    background: url(../images/Hosp.png) no-repeat;
-    background-size: contain;
-    border-radius: 40%;
-}
-
-#medical-logo {
     
-    height: auto;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    background: url(../images/Medical-logo.png) no-repeat center;
+    
 }
 
 /* about */
 #about {
-    height: 500px;
+    height: fit-content;
+    width: 90%;
     display: flex;
-    flex-direction: column;
-}
-
-#left-about {
-    padding-top: 50px;
-    width: 25%;
-    float: left;
-}
-
-#right-about {
-    padding-top: 50px;
-    width: 25%;
-    float: right;
-    text-align: right;
-}
-
-#center-about {
-    width: 25%;
-    margin: 0 auto;
-    height: 1000px;
-    display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-evenly;
+    position: relative;
+    border: 1px solid green;
+    margin: 10px auto;
+    
 }
 
-hr {
-    border-top: 2px solid #0E540E;
-
-    margin: 3px 0;
-}
-
-.left-about-heading {
-    width: 70%;
-    float: right;
+.about-container {
     line-height: 25px;
-    clear: both;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    
 }
 
-.right-about-heading {
-    width: 70%;
-    line-height: 25px;
-    clear: both;
-    margin-bottom: 40px;
-}
-
-#welcome {
+#about h2 {
     text-align: center;
     margin: 40px 0;
     font-size: 280%;
     text-decoration: underline;
+    position: absolute;
 }
 
-/* staff section*/
-#staff {
-    text-align: center;
-    margin: 100px 0;
-    font-size: 280%;
-    margin-bottom: 30px;
-    text-decoration: underline;
+
+#left-about, #right-about {
+    padding-top: 150px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    
 }
 
-#circle-container {
+#center-about {
     width: 300px;
-    height: 450px;
-    padding: 10px;
-    border-style: solid;
-    border-color: #7FFF00;
-    border-width: 8px;
-    border-radius: 50%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-top: 150px;
 }
 
-#circle-cover-bg {
-    background: url(../images/para2.jpg) no-repeat center;
+hr {
+    border-top: 2px solid #0E540E;
+    margin: 3px 0;
+}
+
+#dial {
+    background: url(../images/Call999.png) no-repeat center;
     height: 100%;
-    border-radius: 70%;
     border: 5px solid #7FFF00;
     padding: 5px;
-
-    background-size: cover;
+    background-size: contain;
+    margin-top: 100px;
+    background-color: #f44336;
+    
 }
 
 #phecc-badge {
     background: url(../images/phecc2.jpg) no-repeat center;
     height: 100%;
     width: 100%;
-}
-
-#staff-heading {
-    width: 70%;
-    line-height: 25px;
-    margin: 0px auto 40px auto;
+    
 }
 
 #staff-section {
-    width: 100%;
+    width: 90%;
     display: flex;
     flex-direction: column;
+    border: 1px solid green;
+    margin: 0 auto;
 }
 
-#staff-div {
+#staff {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     margin-top: 50px;
+}
+
+/* staff section*/
+#staff-heading {
+    text-align: center;
+    margin: 30px 0;
+    font-size: 280%;
+    margin-bottom: 30px;
+    text-decoration: underline;
 }
 
 .box {
@@ -283,14 +241,16 @@ footer {
     color: #0E540E;
 }
 
-* {box-sizing: border-box;
+/* Full-width input fields */
+.form-fields {
+width: 90%;
+margin: 10px auto;
 }
 
-/* Full-width input fields */
 input[type="text"],
 input[type="password"],
 input[type="email"] {
-    width: 100%;
+    width: 95%;
     padding: 15px;
     margin: 5px 0 22px 0;
     display: inline-block;
@@ -302,11 +262,6 @@ input[type="text"]:focus,
 input[type="password"]:focus {
     background-color: #ddd;
     outline: none;
-}
-
-hr {
-    border: 1px solid #0E540E;
-    margin-bottom: 75px;
 }
 
 /* Set a style for all buttons */
@@ -341,6 +296,7 @@ button:hover {
 /* Add padding to container elements */
 .container {
     padding: 16px;
+    border: 1px solid green;
 }
 
 .container h3 {
@@ -364,6 +320,7 @@ button:hover {
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    padding: 10px;
 }
 
 /* media queries */
@@ -376,94 +333,46 @@ button:hover {
     }
 
     #logo {
-        width: 50%;
+        
         display: flex;
         justify-content: center;
         margin-top: 100px;
     }
 
-    #menu {
-        display: inline-flex;
-        flex-direction: row;
-        justify-content: space-between;
-        font-size: 150%;
-        letter-spacing: 4px;
+    #hero-image {
+        height: 300px;
         width: 100%;
-        height: 60px;
-        border-bottom: 4px solid #7FFF00;
-        border-top: 4px solid #7FFF00;
-        align-items: center;
-        background-color: rgba(241, 241, 79, 0.7);
-        position: fixed;
-        top: 0;
-        left: 0;
+        
     }
 
-    .left-about-heading {
-        float: none;
-        line-height: 25px;
-        clear: both;
-        margin: 0 auto;
-        margin-bottom: 20px;
+    #about {
+        flex-direction: column;
+        
     }
 
-    .right-about-heading {
-        line-height: 25px;
-        clear: both;
-        text-align: left;
-        margin: 0 auto;
-        margin-bottom: 20px;
-    }
-
-    #left-about {
-        width: 90%;
-        float: none;
-        margin: 0 auto;
-    }
-
-    #right-about {
-        float: none;
-        clear: both;
-        width: 90%;
-        margin: 0 auto;
+    #about h2 {
+        position: relative;
+        font-size: 200%;
     }
 
     #center-about {
-        width: 90%;
-        height: 800px;
+        display: none;
+    }
+
+    #left-about, #right-about {
+        width: 85%;
         margin: 0 auto;
-        float: none;
-        clear: both;
+        padding-top: 0;
     }
 
-    #hero-section {
-        height: 200px;
-        width: 100%;
-        position: relative;
-    }
-
-    #hero-image {
-        height: 200px;
-        width: 100%;
-        margin-top: 50px;
-        background: url(../images/ambu1.jpg) no-repeat center center;
-        background-size: contain;
-    }
-
-    #circle-cover-bg {
-        width: 300px;
-        margin: 0 auto;
-        flex-direction: column;
-    }
-
-    #staff {
+    #staff-heading {
         width: 100%;
         clear: both;
         height: 150px;
         font-size: 30px;
     }
 
-    #staff-div {
+    #staff {
         flex-direction: column;
         margin: 0 auto;
     }
@@ -476,55 +385,18 @@ button:hover {
     /* for small to medium screen size from 650px wide and down */
 
     @media screen and (max-width: 650px) {
-        #about {
-            width: 70%;
-            height: 1200px;
-            margin: 0 auto;
-        }
-
-        #ambulance-logo {
-            display: none;
-        }
-
-        #hospital-logo {
-            display: none;
-        }
-
-        #medical-logo {
-            display: none;
-        }
-
+        
         #menu,h1 {
             display: inline-flex;
             flex-direction: row;
             justify-content: space-between;
-            font-size: 90%;
+            
         }
 
-        #welcome {
-            padding: 30px 0;
-            margin: 0;
-        }
-
-        #left-about, #right-about {
-            width: 100%;
-            float: left;
-            padding: 0;
-        }
-
-        #center-about {
-            clear: both;
-            width: 100%;
-            float: left;
-            padding: 0;
-        }
-
-        hr {
-            display: none;
-        }
-
-        .cancelbtn, .signupbtn {
-            width: 100%;
+        #hero-image {
+            height: 200px;
+            
+            
         }
 
         #logo {
