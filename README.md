@@ -43,21 +43,22 @@ ___
 - [Acknowledgments](#Acknowledgments)
 
 
+# User Stories
 
-# First time visitor goals
+**First time visitor goals**
    
    1. As a first time visitor on this site, I want to know what the site is about without having to read too much content.
    2. As a first time visitor on this site, I want the title, headings and descriptions to be easily found and easily understood. 
    3. As a first time visitor on this site, I don't want to be left confused with any navigation issues or detailed descriptions.
       
 
-# Returning visitor goals
+**Returning visitor goals**
 
    1. As a returning visitor to this site, I want my experience to be as easy as the first and know how to navigate to where I want to go. 
    2. As a returning visitor to this site, I want have easy access to signing up to the service.
 
 
-# Frequent visitor goals
+**Frequent visitor goals**
 
    1. As a frequent user to this site, I want to view some new pictures or updates on the service.
    2. As a frequent user to this site, I want to read more about the service and updates on joining or promotions.
