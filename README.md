@@ -192,7 +192,7 @@ I had misused an id tag, I had some uneeded trailing slashs on elements, an unqu
 I used Lighthouse testing to audit for performance and accessibility.
 
 
-![image](assets/images/Lighthouse1.png)
+![image](assets/images/LighthouseS.png)
 
 [Back to Table of Contents](#table-of-contents)
 
