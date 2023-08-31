@@ -93,14 +93,14 @@ I invisaged my first website to be basic, prompt and staright to the point. I wa
 
 **Navigation:**
 
-My navigation bar is placed on the top of the page underneath the logo. It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up. When scrolling on smaller devices it will stay fixed as to allow the user to go to any section they want with ease.
+My navigation bar is placed on the top of the page underneath the logo. It displays clicklable tabs which will bring us on directly onto the pages clicked, Home, About, Staff, Sign up. When scrolling it will stay fixed as to allow the user to go to any section they want with ease.
 
 [Back to Table of Contents](#table-of-contents)
 
 # Existing Features
 
 
-The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible underneath. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
+The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible above. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
 
 
 ![image](assets/images/HeroScreen.png)
@@ -111,7 +111,7 @@ Next the user is met with the heading of the second section. With just a few sim
 
 ![image](assets/images/About1.png)
 
-Further down in the same section I have a centre logo of the Pre Hospital Emergency Care Council, the governing body who issues Paramedic licences in Ireland. To the left of the page I give a description of the process of what happens when you dial 999 to the time the emergency services arrive at your door. On the right of the page I explain the different roles there is in the service, showing that there is a variety of careers to explore on and off the road. I believe these short but detailed paragraphs give enough information to captivate the users attention without boring them with long drawn out chapters.
+Further down in the same section I have a centre logo of the Pre Hospital Emergency Care Council, the governing body who issues Paramedic licences in Ireland. To the left of the page I give a description of the process of what happens when you dial 999 to the time the emergency services arrive at your door. On the right of the page I explain the different roles there is in the service, showing that there is a variety of careers to explore on and off the road. I believe these short but detailed paragraphs give enough information to captivate the users attention.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -140,7 +140,7 @@ On the bottom of the page there are five live links to Facebook, Twitter, Youtub
 # HTML
 
 **When testing my index.html code i used W3C Markup Validator and found an error.**
-I had misused an id tag, I had some uneeded trailing slashs on elements and an unquoted attribute.
+I had misused an id tag, I had some uneeded trailing slashs on elements, an unquoted attribute and an extra div.
 
 
 ![image](assets/images/W3C%20Validator.png)
@@ -177,12 +177,12 @@ I had misused an id tag, I had some uneeded trailing slashs on elements and an u
 - I've tested that this website is responsive, and looks good on all standard screen sizes the smallest at 320px   all the way up to 1400px.
 - I've confirmed that my webiste has good visibility contrast and it's easy readable for the user, with good contrast colours and displaying good accessibility performance.
 - I've tested that all internal links are working properly and navigate me through the pages, and clicking the fixed navigation bar brings me back to the relevant section.
-- Internal links: Home, About, Staff, Sign Up as well as sign up button sign up page.
+- Internal links: Home, About, Staff, Sign Up as well as sign up button and clear button on sign up page.
 - I've tested that all external links are taking me to new tab and to related pages that where either in description or in text.
 - External links: Facebook, Twitter, Youtube, Instagram and Copyright.
 - Where email is required only an email will be accepted in the email field. When all fields are filled correctly you are then sent to thank you page.
 - Clear button working as should.
-- Fixed navigation bar stays in place for smaller devices when scrolling.
+- Fixed navigation bar stays in place for all devices when scrolling.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -216,7 +216,7 @@ The large, background image stretches through the landing page and is designed t
 
 # Bugs
 
-As I was buliding my website I was constantly debuging and changing my code
+As I was buliding my website I was constantly debuging and changing my code.
 I had some preformance issues in the begining but I managed to rectify it by increasing and decreasing the size of my images and testing different style, ie. float to flex. I tested my page regularly through inspect as well as on various different websites for responsive testing.
 
 
