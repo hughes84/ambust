@@ -8,7 +8,7 @@ This website gives an insight into the core values and purpose of an Ambulance s
 Here you will find a live link to my website: https://hughes84.github.io/ambust/
 
 
-![ambustu am i responsive](assets/images/Responsive1.png)
+![ambustu am i responsive](assets/images/ResponsiveAmI.png)
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hughes84/ambust?color=red)
@@ -103,30 +103,34 @@ My navigation bar is placed on the top of the page underneath the logo. It displ
 The user is first met by the menu screen. Here they can see the name of the site in big bold colours with the menu clearly visible underneath. Below these, is an image of several different fleet from the Emergency services that I feel will draw the user in with the colours, detail and variety. I aimed to catch the users attention with the bright illuminous colours of the vehicles and the glow of the flashing lights. I added a neutral background colour which I felt complimented these colours well.
 
 
-![image](https://github.com/hughes84/ambust/assets/134289376/0a9dfc60-5be5-4c18-aed7-3d3133b256bd)
+![image](assets/images/HeroScreen.png)
 
 
-Next the user is met with the heading of the second section. With just a few simple words the user knows what this section is about straight away. There is a picture below this of myself at work, in uniform, with an ambulance behind me. I feel this will draw the user in as it makes it more real and truthful. I give a brief synopsis on the left of the page, of when to call 999 and another to the right of the page on getting involved, giving the user food for thought on whether this could be a role for them.
+Next the user is met with the heading of the second section. With just a few simple words the user knows what this section is about straight away. There is a logo below this of when to call 999. I give a brief synopsis on the left of the page of same, and another to the right of the page on getting involved, giving the user food for thought on whether this could be a role for them.
 
 
-![image](https://github.com/hughes84/ambust/assets/134289376/26b31cde-06ea-4dc7-a6fd-d22d06337999)
+![image](assets/images/About1.png)
 
 Further down in the same section I have a centre logo of the Pre Hospital Emergency Care Council, the governing body who issues Paramedic licences in Ireland. To the left of the page I give a description of the process of what happens when you dial 999 to the time the emergency services arrive at your door. On the right of the page I explain the different roles there is in the service, showing that there is a variety of careers to explore on and off the road. I believe these short but detailed paragraphs give enough information to captivate the users attention without boring them with long drawn out chapters.
 
+[Back to Table of Contents](#table-of-contents)
 
-![image](https://github.com/hughes84/ambust/assets/134289376/4803cba8-5a6b-45a7-b36e-a16be78b730d)
+![image](assets/images/About2.png)
 
 Scrolling down, I introduce the user to three of my colleagues from the service. Two paramedics that work on an ambulance and an advanced paramedic who works on a helicopter with the Irish Coastguard. I give the user a look into each medics background, skills and goals for the future with a picture of each in a different setting again making it real and giving variety, keeping the users attention. 
 
 
-![image](https://github.com/hughes84/ambust/assets/134289376/b99809a9-80db-4813-b9ae-2cadc27407f0)
+![image](assets/images/Staff1.png)
+![image](assets/images/Staff2.png)
 
 At the end of the site the user is met with the sign up page. Here the user is given the option to make an account, signing up to join the service. The user must enter a valid email address to submit the form. On completion of entering a valid email address and password the user will click the sign up button below. They will then be directed to a new page, where the following message will appear; Thank You, Your Form Has Been Submitted!Thank you for your application, we will be in contact in due course.
 If the user wishes to clear their entry and start over, this can be done using the clear button.
 On the bottom of the page there are five live links to Facebook, Twitter, Youtube, Instagram and Copyright.
 
 
-![image](https://github.com/hughes84/ambust/assets/134289376/303704c1-63f0-4481-aa70-423564263e64)
+![image](assets/images/SignUp.png)
+![image](assets/images/SubmissionForm.png)
+
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -148,8 +152,6 @@ I had misused an id tag, I had some uneeded trailing slashs on elements and an u
 
 
 **When testing my thankyou.html code i used W3C Markup Validator and found no errors.**
-
-
 
 
 > This is the result for my thankyou.html page.
@@ -207,7 +209,7 @@ The Inconsolata font is the title font I used with Sans Serif as the fallback fo
 
 # Imagery
 
-The large, background image stretches through the landing page and is designed to be striking and catch the user's attention at the very first glance and to give the user the idea behind the website. I sourced this image of the fleet of the Irish ambulance service online and downloaded it. The second image is a picture I took of myself at work in the National Ambulance Service. I used some pictures of my work collegaues for the staff section from Facebook with their consent.
+The large, background image stretches through the landing page and is designed to be striking and catch the user's attention at the very first glance and to give the user the idea behind the website. I sourced this image of the fleet of the Irish ambulance service online and downloaded it. I used some pictures of my work collegaues for the staff section from Facebook with their consent.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -251,23 +253,26 @@ I had some preformance issues in the begining but I managed to rectify it by inc
 13. Freepik for cartoon images for README.md.
 14. Markdownguide.org for syntax for README.md.
 15. Visual Studio Code for being my Integrated development environment.
+16. NHS UK for Dial 999 logo.
  
 
 
 # Media
 
 - My main image is taken from a National Ambulance Service Facebook account which is available to the public. 
-- The image on the next page is of myself.
+- The Dial 999 logo below is from the NHS UK website and is available tot the public, 
+  https://www.elft.nhs.uk/news/london-ambulance-strike-23-january-advice .
 - This is followed by the Phecc logo from thier website, https://www.phecit.ie/ .
 - My staff images were taken from personal Facebook accounts of colleagues with their consent. 
-- In the footer I have used links to Facebook, Twitter, Youtube and Instagram.
+- In the footer I have used links to Facebook, Twitter, Youtube, Instagram and Copyright.
 
 
 # Acknowledgment
 
-Special thank you goes to Laura from Code Institute for keeping me motivated on weekly stand up calls on slack throughout project. Always available for guidance.
+Special thank you goes to Laura from Code Institute for keeping me motivated on weekly stand up calls on slack throughout the project. Laura always made herself available for guidance and support.
 Thank you to all at Code Institute for the opportunity. 
-My peers on slack especially Cohort Jamie O'Neill who often took time from his own schedule to look over my work.
+My mentor Medale Oluwafemi for his help and support towards this project.
+My peers on slack, especially Cohort Jamie O'Neill who often took time from his own schedule to organise study groups which were hugely beneficial.
 
 [Back to Table of Contents](#table-of-contents)
 
