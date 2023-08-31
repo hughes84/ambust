@@ -34,7 +34,6 @@ h1 {
     padding: 4px;
     line-height: 40px;
     text-align: center;
-    
 }
 
 #logo {
@@ -42,7 +41,6 @@ h1 {
     display: flex;
     justify-content: center;
     margin-top: 100px;
-    
 }
 
 h2, h3 {
@@ -109,8 +107,6 @@ h4 {
     margin-top: 50px;
     background: url(../images/ambu1.jpg) no-repeat center center;
     background-size: contain;
-    
-    
 }
 
 /* about */
@@ -123,7 +119,6 @@ h4 {
     position: relative;
     border: 1px solid green;
     margin: 10px auto;
-    
 }
 
 .about-container {
@@ -131,7 +126,6 @@ h4 {
     margin-bottom: 30px;
     display: flex;
     flex-direction: column;
-    
 }
 
 #about h2 {
@@ -141,7 +135,6 @@ h4 {
     text-decoration: underline;
     position: absolute;
 }
-
 
 #left-about, #right-about {
     padding-top: 150px;
@@ -168,19 +161,15 @@ hr {
 #dial {
     background: url(../images/Call999.png) no-repeat center;
     height: 100%;
-    border: 5px solid #7FFF00;
     padding: 5px;
     background-size: contain;
     margin-top: 100px;
-    background-color: #f44336;
-    
 }
 
 #phecc-badge {
     background: url(../images/phecc2.jpg) no-repeat center;
     height: 100%;
     width: 100%;
-    
 }
 
 #staff-section {
@@ -235,6 +224,7 @@ footer {
     justify-content: space-evenly;
     list-style-type: none;
 }
+
 .social-media i {
     font-size: 200%;
     padding: 8%;
@@ -243,13 +233,11 @@ footer {
 
 /* Full-width input fields */
 .form-fields {
-width: 90%;
-margin: 10px auto;
+    width: 90%;
+    margin: 10px auto;
 }
 
-input[type="text"],
-input[type="password"],
-input[type="email"] {
+input[type="text"], input[type="password"], input[type="email"] {
     width: 95%;
     padding: 15px;
     margin: 5px 0 22px 0;
@@ -258,8 +246,7 @@ input[type="email"] {
     background: #d8f2be;
 }
 
-input[type="text"]:focus,
-input[type="password"]:focus {
+input[type="text"]:focus, input[type="password"]:focus {
     background-color: #ddd;
     outline: none;
 }
@@ -287,8 +274,7 @@ button:hover {
 }
 
 /* Float cancel and signup buttons and add an equal width */
-.clearbtn,
-.signupbtn {
+.clearbtn, .signupbtn {
     float: left;
     width: 50%;
 }
@@ -314,13 +300,15 @@ button:hover {
 }
 
 #thank-you-info {
-    width: 100%;
-    height: 70vh;
+    width: 80%;
+    height: 60vh;
     display: flex;
+    margin: 100px auto 30px;
     justify-content: center;
     flex-direction: column;
     align-items: center;
     padding: 10px;
+    border: 1px solid green;
 }
 
 /* media queries */
@@ -328,79 +316,84 @@ button:hover {
 /* for medium screen sizes of 950px wide and down */
 
 @media screen and (max-width: 950px) {
-    header {
-        flex-direction: column;
-    }
 
-    #logo {
+header {
+    flex-direction: column;
+}
+
+#logo {
         
-        display: flex;
-        justify-content: center;
-        margin-top: 100px;
-    }
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
 
-    #hero-image {
-        height: 300px;
-        width: 100%;
+#hero-image {
+    height: 300px;
+    width: 100%;
+}
+
+#about {
+    flex-direction: column;
+}
+
+#about h2 {
+    position: relative;
+    font-size: 200%;
+}
+
+#center-about {
+    display: none;
+}
+
+#left-about, #right-about {
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 0;
+}
+
+#staff-heading {
+    width: 100%;
+    clear: both;
+    height: 150px;
+    font-size: 30px;
+}
+
+#staff {
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.box {
+    max-width: 500px;
+    margin: 0 30px;
+}
+
+/* for small to medium screen size from 650px wide and down */
+
+@media screen and (max-width: 650px) {
         
-    }
+#menu,h1 {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 95%;
+}
 
-    #about {
-        flex-direction: column;
-        
-    }
+#hero-image {
+    height: 200px;
+}
 
-    #about h2 {
-        position: relative;
-        font-size: 200%;
-    }
+#logo {
+    width: 100%;  
+}
 
-    #center-about {
-        display: none;
-    }
+#thank-you-info {
+    width: 80%;
+    text-align: center;
+    justify-content: space-around;
+    
+}
 
-    #left-about, #right-about {
-        width: 85%;
-        margin: 0 auto;
-        padding-top: 0;
-    }
-
-    #staff-heading {
-        width: 100%;
-        clear: both;
-        height: 150px;
-        font-size: 30px;
-    }
-
-    #staff {
-        flex-direction: column;
-        margin: 0 auto;
-    }
-
-    .box {
-        max-width: 500px;
-        margin: 0 30px;
-    }
-
-    /* for small to medium screen size from 650px wide and down */
-
-    @media screen and (max-width: 650px) {
-        
-        #menu,h1 {
-            display: inline-flex;
-            flex-direction: row;
-            justify-content: space-between;
-            
-        }
-
-        #hero-image {
-            height: 200px;
-            
-            
-        }
-
-        #logo {
-            width: 100%;
-        }
     }
 }
